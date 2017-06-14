@@ -11,3 +11,10 @@ def norm_correlate(x,y):
 def month_to_int(s):
     n = list(map(int, s.split("-")))
     return 12*n[0] + n[1]-1
+
+def get_start_end(df):
+    start = list(df['Month'])[0]
+    end = list(df['Month'])[-1]
+    start = month_to_int(start)
+    end = month_to_int(end)
+    return start, end
