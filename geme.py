@@ -5,5 +5,5 @@ def normalise(x):
 
 def norm_correlate(x,y):
     norm_x, norm_y = normalise(x), normalise(y)
-     mag_x,  mag_y = np.linalg.norm(norm_x), np.linalg.norm(norm_y)
+    mag_x, mag_y = np.linalg.norm(norm_x), np.linalg.norm(norm_y)
     return np.correlate(norm_x, norm_y)/(mag_x*mag_y)
