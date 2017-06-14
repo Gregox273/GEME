@@ -9,6 +9,5 @@ def norm_correlate(x,y):
     return np.correlate(norm_x, norm_y)/(mag_x*mag_y)
 
 def month_to_int(s):
-    s = "1960-02".split("-")
-    n = list(map(int, s))
+    n = list(map(int, s.split("-")))
     return 12*n[0] + n[1]-1
