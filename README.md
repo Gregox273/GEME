@@ -7,10 +7,12 @@ CUES Hackathon 2017
 
 For each pair of datasets:
 -Store in program or just read line by line from csv?
+-Convert data to standardised format?
 -Select data range to compare
 -Calculate correlation and significance
 -For correlation (and significance) greater than threshold, print result and graph
 -
 
-Optimisations?:
+## Optimisations/upgrade?:
 -Do rough/quick correlation to decide which pairs to investigate further?
+-Correlate spatial data (we haven't found any sources yet...)
