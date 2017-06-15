@@ -1,4 +1,5 @@
 import numpy as np
+from pandas import DataFrame, read_csv
 
 def normalise(x):
     return (x - x.mean())/x.std()
@@ -50,3 +51,6 @@ def month_to_string(s):
                "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"][n[1]-1]
     year_str = str(n[0])[2:]
     return mon_str+year_str
+
+def read_data_frame(s):
+    return read_csv(s)
