@@ -20,9 +20,13 @@ def getLatLon(k, y, x, count=0):
       y.append(k.geometry.y)
    return
 
-latitudes = []
-longitudes = []
-k = read("data/GIS/Licensed_Premises.kml")
-getLatLon(k,latitudes,longitudes)
-print(latitudes)
-print(longitudes)
+x1 = []
+y1 = []
+x2 = []
+y2 = []
+k1 = read("data/GIS/Schools.kml")
+getLatLon(k1,y1,x1)
+print(y1)
+print(x1)
+k2 = read("data/GIS/Licensed_Premises.kml")
+getLatLon(k2,y2,x2)
