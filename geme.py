@@ -30,3 +30,16 @@ def get_time_window(dfx, dfy):
     index_x = (start_x, end_x)
     index_y = (start_y, end_y)
     return index_x, index_y
+
+def overlap_dataframes(dfx, dfy):
+    range_x, range_y = get_time_window(dfx, dfy)
+    data_x = dfx.iloc[range_x[0]:range_x[1]]
+    data_y = dfy.iloc[range_y[0]:range_y[1]]
+    return data_x, data_y
+
+def compare_datasets(dfx, dfy):
+    data_x, data_y = overlap_dataframes(dfx, dfy)
+    vals_x = data_x.iloc[:,1]
+    vals_y = data_y.iloc[:,1]
+    r = norm_correlate(vals_x, vals_y)
+    return r, data_x, data_y
