@@ -20,7 +20,7 @@ def submission():
         
         # Call the correlation function here
         print(dataset)
-        # use sliced_df1.plot() stuff to give a matplotlib plot object
+        # use sliced_df1.plot(0) stuff to give a matplotlib plot object
         return # Serve results page template
     
 
