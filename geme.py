@@ -43,3 +43,10 @@ def compare_datasets(dfx, dfy):
     vals_y = data_y.iloc[:,1]
     r = norm_correlate(vals_x, vals_y)
     return r, data_x, data_y
+
+def month_to_string(s):
+    n = list(map(int, s.split("-")))
+    mon_str = ["Jan", "Feb", "Mar", "Apr", "May", "Jun",
+               "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"][n[1]-1]
+    year_str = str(n[0])[2:]
+    return mon_str+year_str
