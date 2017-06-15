@@ -18,3 +18,15 @@ def get_start_end(df):
     start = month_to_int(start)
     end = month_to_int(end)
     return start, end
+
+def get_time_window(dfx, dfy):
+    min_x, max_x = get_start_end(dfx)
+    min_y, max_y = get_start_end(dfy)
+    window_start = max(min_x, min_y)
+    window_end = min(max_x, max_y)
+    window_width = window_end-window_start
+    start_x, start_y = window_start - min_x, window_start - min_y
+    end_x, end_y = start_x + window_width, start_y + window_width
+    index_x = (start_x, end_x)
+    index_y = (start_y, end_y)
+    return index_x, index_y
