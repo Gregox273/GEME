@@ -2,38 +2,306 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width">
-  <title>GEME prototype</title>
+  <title>DataGenie Time Analysis</title>
   <link rel="stylesheet" href="https://gitcdn.link/repo/Chalarangelo/mini.css/master/dist/mini-default.min.css">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/png" href="../static/DataGenielogoblack.png"
 </head>
  
 <body>
   
-  <h1>GEME</h1>
-  <h2>Choose a dataset to compare: <h2>
+	<header class="sticky">
+		<div class="row">
+  			<div class="col-sm-1">
+    		<img src="../static/DataGenielogoblack.png">
+  			</div>
+  			<div class="col-sm">
+    			<h4>DataGenie</h4>
+  			</div>
+		</div>
+	</header>
+
+	<p>Upload your own CSV file to compare to our database</p>
+
+	<input type="file" id="file-input">
+	<label for="file-input" class="button">Upload file...</label>
+
+	<h5>or</h5>
+
+	<p>Choose one of our files:</p>
+
     
 	<form action="/submit" method="GET">
+
+		<!--All Agriculture data-->
+		<fieldset>
+			<legend>Agriculture</legend>
+			<div class="input-group">
+	  			<input type="radio" id="agrirad1" tabindex="0" name="dataset" value="monthly-milk-production-pounds-p.csv">
+	  			<label for="agrirad1">Milk production</label>
+			</div>
+
+			<br>
+
+			<div class="input-group">
+	  			<input type="radio" id="agrirad2" tabindex="0" name="dataset" value="monthly-total-number-of-pigs-sla.csv">
+	  			<label for="agrirad2">Number of pigs slaughtered</label>
+			</div>
+
+			<br>
+			
+		</fieldset>	
+
+		<!--All Crime data-->
+		<fieldset>
+			<legend>Crime</legend>
+			<div class="input-group">
+	  			<input type="radio" id="crimerad1" tabindex="0" name="dataset" value="monthly-boston-armed-robberies-j.csv">
+	  			<label for="crimerad1">Boston Armed Robberies </label>
+			</div>
+
+			<br>
+
+			<div class="input-group">
+	  			<input type="radio" id="crimerad2" tabindex="0" name="dataset" value="monthly-minneapolis-public-drunk.csv">
+	  			<label for="crimerad2">Minneapolis Public Drunkeness Arrests</label>
+			</div>
+
+			<br>
+			
+		</fieldset>	
+
+
+		<!--All Economic data-->
+		<fieldset>
+			<legend>Economic</legend>
+			<div class="input-group">
+	  			<input type="radio" id="econrad1" tabindex="0" name="dataset" value="monthly-australian-imports-from-.csv">
+	  			<label for="econrad1">Australian imports</label>
+			</div>
+
+			<br>
+
+			<div class="input-group">
+	  			<input type="radio" id="econrad3" tabindex="0" name="dataset" value="monthly-cpi-canada-19501973.csv">
+	  			<label for="econrad3">CPI in Canada</label>
+			</div>
+
+			<br>
+			
+		</fieldset>	
+
+		<!--All Health data-->
+		<fieldset>
+			<legend>Health</legend>
+			<div class="input-group">
+	  			<input type="radio" id="healthrad1" tabindex="0" name="dataset" value="monthly-reported-number-of-cases.csv">
+	  			<label for="healthrad1">Reported cases of flu</label>
+			</div>
+
+			<br>
+
+			<div class="input-group">
+	  			<input type="radio" id="healthrad2" tabindex="0" name="dataset" value="monthly-reported-number-of-chick.csv">
+	  			<label for="healthrad2">Reported cases of chicken pox</label>
+			</div>
+
+			<br>
+
+			<div class="input-group">
+	  			<input type="radio" id="healthrad3" tabindex="0" name="dataset" value="monthly-us-polio-cases.csv">
+	  			<label for="healthrad3">US polio cases</label>
+			</div>
+
+			<br>
+			<div class="input-group">
+	  			<input type="radio" id="healthrad4" tabindex="0" name="dataset" value="uk-deaths-from-bronchitis-emphys.csv">
+	  			<label for="healthrad4">UK deaths from bronchitis</label>
+			</div>
+
+			<br>
+				
+		</fieldset>	
+
+
+		<!--All finance data-->
 		<fieldset>
 			<legend>Finance</legend>
+
 			<div class="input-group">
-	  			<input type="radio" id="rad1" tabindex="0" name="dataset" value="monthly-closings-of-the-dowjones">
-	  			<label for="rad1">Monthly closings of the Dow Jones</label>
+	  			<input type="radio" id="financerad1" tabindex="0" name="dataset" value="exchange-rate-of-australian-doll.csv">
+	  			<label for="financerad1">Exchange rate of Australian Dollars</label>
 			</div>
+
+			<br>
+
+			<div class="input-group">
+	  			<input type="radio" id="financerad2" tabindex="0" name="dataset" value="exchange-rate-twi-may-1970-aug-1.csv">
+	  			<label for="financerad2">Exchange rate of TWI</label>
+			</div>
+
+			<br>
+
+			<div class="input-group">
+	  			<input type="radio" id="financerad3" tabindex="0" name="dataset" value="monthly-closings-of-the-dowjones.csv">
+	  			<label for="financerad3">Monthly closings of the Dow Jones</label>
+			</div>
+
+			<br>
+
+			<div class="input-group">
+	  			<input type="radio" id="financerad9" tabindex="0" name="dataset" value="one-month-return-on-us-treasury-.csv">
+	  			<label for="financerad9">Return on US Treasury</label>
+			</div>
+
+			<br>
+
+			<div class="input-group">
+	  			<input type="radio" id="financerad11" tabindex="0" name="dataset" value="shartes-traded-in-oil-and-mining.csv">
+	  			<label for="financerad11">Shartes traded in oil and mining</label>
+			</div>
+
+			<br>
+			
 		</fieldset>	
+
+		<!--All meterology data-->
+
 		<fieldset>
-			<legend>Real estate</legend>
+			<legend>Meterology</legend>
 			<div class="input-group">
-	  			<input type="radio" id="rad2" tabindex="0" name="dataset" value = "realestate-loans-billions-monthl">
-	  			<label for="rad2">Real estate loans in 1973-1978</label>
+	  			<input type="radio" id="meterrad1" tabindex="0" name="dataset" value="average-monthly-temperatures-in-.csv">
+	  			<label for="meterrad1">Average temperatures in</label>
 			</div>
+
+			<br>
+
+			<div class="input-group">
+	  			<input type="radio" id="meterrad2" tabindex="0" name="dataset" value="mean-maximum-temperature-in-melb.csv">
+	  			<label for="meterrad2">Maximum temperatures in Melbourne </label>
+			</div>
+
+			<br>
+
+			<div class="input-group">
+	  			<input type="radio" id="meterrad3" tabindex="0" name="dataset" value="mean-monthly-air-temperature-deg.csv">
+	  			<label for="meterrad3">Average temperature in  </label>
+			</div>
+
+			<br>
+
+			<div class="input-group">
+	  			<input type="radio" id="meterrad4" tabindex="0" name="dataset" value="monthly-new-york-city-average-te.csv">
+	  			<label for="meterrad4">Average temperatures in NYC</label>
+			</div>
+
+			<br>
+
+			<div class="input-group">
+	  			<input type="radio" id="meterrad5" tabindex="0" name="dataset" value="monthly-precipitation-mm-philade.csv">
+	  			<label for="meterrad5">Precipitation in Philadelphia</label>
+			</div>
+
+			<br>
+
+			<div class="input-group">
+	  			<input type="radio" id="meterrad8" tabindex="0" name="dataset" value="ozon-concentration-downtown-l-a-.csv">
+	  			<label for="meterrad8">Ozone concentration in downtown LA</label>
+			</div>
+
+			<br>
+
+			<div class="input-group">
+	  			<input type="radio" id="meterrad9" tabindex="0" name="dataset" value="precipitation-in-mm-eastport-usa.csv">
+	  			<label for="meterrad9">Precipitation in Eastport USA</label>
+			</div>
+
+			<br>
+
+			
+		</fieldset>	
+
+		<!--All transport data-->
+
+		<fieldset>
+			<legend>Transport</legend>
+			<div class="input-group">
+	  			<input type="radio" id="transportrad1" tabindex="0" name="dataset" value = "international-airline-passengers.csv">
+	  			<label for="transportrad1">International Airline Passengers</label>
+			</div>
+
+			<br>
+
+			<div class="input-group">
+	  			<input type="radio" id="transportrad2" tabindex="0" name="dataset" value = "monthly-hotel-occupied-room-av-6.csv">
+	  			<label for="transportrad2">Hotel Occupied Rooms</label>
+			</div>
+
+			<br>
+
+			<div class="input-group">
+	  			<input type="radio" id="transportrad3" tabindex="0" name="dataset" value = "monthly-traffic-fatalities-in-on.csv">
+	  			<label for="transportrad3">Traffic fatalities in Ontario</label>
+			</div>
+
+			<br>
+
+			<div class="input-group">
+	  			<input type="radio" id="transportrad4" tabindex="0" name="dataset" value = "monthly-hotel-occupied-room-av-6.csv">
+	  			<label for="transportrad4">Hotel Occupied Rooms</label>
+			</div>
+
+			<br>
+
+			<div class="input-group">
+	  			<input type="radio" id="transportrad5" tabindex="0" name="dataset" value = "monthly-us-air-passenger-miles-j.csv">
+	  			<label for="transportrad5">US air passenger miles</label>
+			</div>
+
+			<br>
+
+			<div class="input-group">
+	  			<input type="radio" id="transportrad6" tabindex="0" name="dataset" value = "monthly-us-auto-registration-tho.csv">
+	  			<label for="transportrad6">US auto registration</label>
+			</div>
+
+			<br>
+
+			<div class="input-group">
+	  			<input type="radio" id="transportrad7" tabindex="0" name="dataset" value = "passenger-miles-mil-flown-domest.csv">
+	  			<label for="transportrad7">Domestic passenger miles flown</label>
+			</div>
+
+			<br>
+
+			<div class="input-group">
+	  			<input type="radio" id="transportrad8" tabindex="0" name="dataset" value = "portland-oregon-average-monthly-.csv">
+	  			<label for="transportrad8">Portland, Oregon Average Monthly</label>
+			</div>
+
+			<br>
+
+			<div class="input-group">
+	  			<input type="radio" id="transportrad9" tabindex="0" name="dataset" value = "us-airlines-monthly-aircraft-mil.csv">
+	  			<label for="transportrad9">US airlines monthly aircraft</label>
+			</div>
+
+			<br>
+
+			<div class="input-group">
+	  			<input type="radio" id="transportrad10" tabindex="0" name="dataset" value = "weekday-bus-ridership-iowa-city-.csv">
+	  			<label for="transportrad10">Weekday Bus Ridership in Iowa City</label>
+			</div>
+
 		</fieldset>	
 	  	<div class="input-group">
 		  <input type="submit" class="primary" value="Compare" >
 	   	</div>
-
-
 	</form>    
+
+	<footer class="sticky">
+	  <p>&copy; 2017 GEME Incorporated | <a href="#">About</a> | <a href="#">Terms of use</a></p>
+	</footer>   
 
 </body>
 </html>

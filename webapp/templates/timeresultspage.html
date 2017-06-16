@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>DataGenie Time Results</title>
+  <link rel="stylesheet" href="https://gitcdn.link/repo/Chalarangelo/mini.css/master/dist/mini-default.min.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/png" href="../static/DataGenielogoblack.png"
+</head>
+ 
+<body>
+
+	<header class="sticky">
+		<div class="row">
+  			<div class="col-sm-1">
+    		<img src="../static/DataGenielogoblack.png">
+  			</div>
+  			<div class="col-sm">
+    			<h4>DataGenie</h4>
+  			</div>
+		</div>
+	</header>	
+  
+  	<h2>{{ origin_data }} correlates most highly with {{ dataset_1 }}</h2>
+  	<br>
+
+
+<!--first row of results:-->
+	<div class="row">
+	  <div class="col-sm">
+	    <h3>Correlation data set - {{ dataset_1 }}</h3>
+	    <p>Correlation coefficient: {{ dataset_1_r }} </p>
+	    <img src="/graph1.png">
+	  </div>
+	  <div class="col-sm">
+	    <h3>Correlation data set - {{ dataset_2 }}</h3>
+	    <p>Correlation coefficient: {{ dataset_2_r }}</p>	    
+	    <img src="/graph2.png">
+	  </div>
+	</div>
+
+
+<!--second row of results:-->
+
+	<div class="row">
+	  <div class="col-sm">
+	    <h3>Correlation data set - {{ dataset_3 }}</h3>
+	    <p>Correlation coefficient: {{ dataset_3_r }}</p>
+	    <img src="/graph3.png">
+	  </div>
+	  <div class="col-sm">
+	    <h3>Correlation data set - {{ dataset_4 }}</h3>
+	    <p>Correlation coefficient: {{ dataset_4_r }}</p>
+	    <img src="/graph4.png">
+	  </div>
+	</div>
+
+<!--unnecessary footer:-->
+
+	<footer class="sticky">
+	  <p>&copy; 2017 GENIE Incorporated | <a href="#">About</a> | <a href="#">Terms of use</a></p>
+	</footer>   
+
+</body>
+</html>
