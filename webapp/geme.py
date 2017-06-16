@@ -2,6 +2,8 @@ import numpy as np
 import os
 from pandas import DataFrame, read_csv
 
+OVERLAP_THRESHOLD = 12
+
 def normalise(x):
     return (x - x.mean())/x.std()
 
@@ -27,6 +29,8 @@ def get_time_window(dfx, dfy):
     window_start = max(min_x, min_y)
     window_end = min(max_x, max_y)
     window_width = window_end-window_start
+    if window_width < OVERLAP_THRESHOLD:
+        return False
     start_x, start_y = window_start - min_x, window_start - min_y
     end_x, end_y = start_x + window_width, start_y + window_width
     index_x = (start_x, end_x)
@@ -34,12 +38,16 @@ def get_time_window(dfx, dfy):
     return index_x, index_y
 
 def overlap_dataframes(dfx, dfy):
+    if not get_time_window(dfx, dfy):
+        return False
     range_x, range_y = get_time_window(dfx, dfy)
     data_x = dfx.iloc[range_x[0]:range_x[1]]
     data_y = dfy.iloc[range_y[0]:range_y[1]]
     return data_x, data_y
 
 def compare_datasets(dfx, dfy): #TODO need error handling if no overlap
+    if not overlap_dataframes(dfx, dfy):
+        return None
     data_x, data_y = overlap_dataframes(dfx, dfy)
     vals_x = data_x.iloc[:,1]
     vals_y = data_y.iloc[:,1]
@@ -76,6 +84,8 @@ def compare_to_all(filename):
     # compare target frame to all others
     compare_func = lambda df: compare_datasets(target_df, df)
     comparison = list(map(compare_func, compare_df))
+    # remove invalid comparisons
+    comparison = list(filter(lambda c: c!=None, comparison))
     # sort by correlation, take top four
     comparison.sort(key = lambda tup: tup[0], reverse=True)
     best_fits = comparison[0:4]
