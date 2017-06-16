@@ -26,10 +26,11 @@ def submission():
 @app.route("/graph1.png")
 def graph1():
     # create plot
-    r, df1, df2 = best_fits[0]
     fig = plt.figure()
-    plt.plot(df1.index, df1.iloc[:,1])
-    #plt.xticks(range(len(df1.iloc[:,0])), df1.iloc[:,0])
+    if not best_fits[0] == None:
+        r, df1, df2 = best_fits[0]
+        plt.plot(df1.index, df1.iloc[:,1])
+        #plt.xticks(range(len(df1.iloc[:,0])), df1.iloc[:,0])
     
     # create png
     canvas=FigureCanvas(fig)
@@ -43,10 +44,11 @@ def graph1():
 @app.route("/graph2.png")
 def graph2():
     # create plot
-    r, df1, df2 = best_fits[1]
     fig = plt.figure()
-    plt.plot(df1.index, df1.iloc[:,1])
-    #plt.xticks(range(len(df1.iloc[:,0])), df1.iloc[:,0])
+    if not best_fits[1] == None:
+        r, df1, df2 = best_fits[1]
+        plt.plot(df1.index, df1.iloc[:,1])
+        #plt.xticks(range(len(df1.iloc[:,0])), df1.iloc[:,0])
     
     # create png
     canvas=FigureCanvas(fig)
@@ -60,8 +62,11 @@ def graph2():
 @app.route("/graph3.png")
 def graph3():
     # create plot
-    r, df1, df2 = best_fits[2]
     fig = plt.figure()
+    if not best_fits[2] == None:
+        r, df1, df2 = best_fits[2]
+        plt.plot(df1.index, df1.iloc[:,1])
+        #plt.xticks(range(len(df1.iloc[:,0])), df1.iloc[:,0])
     plt.plot(df1.index, df1.iloc[:,1])
     #plt.xticks(range(len(df1.iloc[:,0])), df1.iloc[:,0])
     
@@ -77,8 +82,11 @@ def graph3():
 @app.route("/graph4.png")
 def graph4():
     # create plot
-    r, df1, df2 = best_fits[3]
     fig = plt.figure()
+    if not best_fits[3] == None:
+        r, df1, df2 = best_fits[3]
+        plt.plot(df1.index, df1.iloc[:,1])
+        #plt.xticks(range(len(df1.iloc[:,0])), df1.iloc[:,0])
     plt.plot(df1.index, df1.iloc[:,1])
     #plt.xticks(range(len(df1.iloc[:,0])), df1.iloc[:,0])
     
