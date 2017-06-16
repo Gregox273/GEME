@@ -7,8 +7,7 @@ import matplotlib.pyplot as plt
 
 app = Flask(__name__)
 
-sliced_df1 = DataFrame([1])
-sliced_df2 = DataFrame([1])
+best_fits = []
 
 @app.route('/')
 def main(): 
@@ -17,36 +16,33 @@ def main():
 
 @app.route('/submit', methods=['GET'])
 def submission():
-    global sliced_df1
-    global sliced_df2
+    filename = request.args.get('dataset')
+    global best_fits
+    best_fits = compare_to_all(filename)
 
-    dataset = r"../datasets/time/" + request.args.get('dataset')
-    df1 = read_data_frame(dataset)
-    df2 = read_data_frame(r"../datasets/time/realestate-loans-billions-monthl.csv") #TODO
-    r, sliced_df1, sliced_df2 = compare_datasets(df1, df2)
- 
     return render_template('timeresultspage.html')
         
         
 @app.route("/graph1.png")
 def graph1():
-    
-    # Create Figure
+    # create plot
     fig, ax1 = plt.subplots()
+    if not best_fits[0] == None:
+        r, df1, df2 = best_fits[0]
 
-    indices = sliced_df1.index if sliced_df1.index[0] == 0 else sliced_df2.index        
+        indices = df1.index if df1.index[0] == 0 else df2.index        
 
-    ax1.plot(indices, sliced_df1.iloc[:,1], 'b')
-    ax1.set_xlabel('Months')
-    ax1.set_ylabel('Datset 1', color='b')
-    ax1.tick_params('y', colors='b')
+        ax1.plot(indices, df1.iloc[:,1], 'b')
+        ax1.set_xlabel('Months')
+        ax1.set_ylabel('Datset 1', color='b')
+        ax1.tick_params('y', colors='b')
 
-    ax2 = ax1.twinx()
-    ax2.plot(indices, sliced_df2.iloc[:,1], 'r')
-    ax2.set_ylabel('Dataset 2', color='r')
-    ax2.tick_params('y', colors='r')
+        ax2 = ax1.twinx()
+        ax2.plot(indices, df2.iloc[:,1], 'r')
+        ax2.set_ylabel('Dataset 2', color='r')
+        ax2.tick_params('y', colors='r')
 
-    fig.tight_layout()
+        fig.tight_layout()
     
     # Create PNG
     canvas=FigureCanvas(fig)
@@ -59,23 +55,24 @@ def graph1():
     
 @app.route("/graph2.png")
 def graph2():
-    
-    # Create Figure
+    # create plot
     fig, ax1 = plt.subplots()
+    if not best_fits[1] == None:
+        r, df1, df2 = best_fits[1]
 
-    indices = sliced_df1.index if sliced_df1.index[0] == 0 else sliced_df2.index        
+        indices = df1.index if df1.index[0] == 0 else df2.index        
 
-    ax1.plot(indices, sliced_df1.iloc[:,1], 'b')
-    ax1.set_xlabel('Months')
-    ax1.set_ylabel('Datset 1', color='b')
-    ax1.tick_params('y', colors='b')
+        ax1.plot(indices, df1.iloc[:,1], 'b')
+        ax1.set_xlabel('Months')
+        ax1.set_ylabel('Datset 1', color='b')
+        ax1.tick_params('y', colors='b')
 
-    ax2 = ax1.twinx()
-    ax2.plot(indices, sliced_df2.iloc[:,1], 'r')
-    ax2.set_ylabel('Dataset 2', color='r')
-    ax2.tick_params('y', colors='r')
+        ax2 = ax1.twinx()
+        ax2.plot(indices, df2.iloc[:,1], 'r')
+        ax2.set_ylabel('Dataset 2', color='r')
+        ax2.tick_params('y', colors='r')
 
-    fig.tight_layout()
+        fig.tight_layout()
     
     # Create PNG
     canvas=FigureCanvas(fig)
@@ -86,26 +83,26 @@ def graph2():
 
     return response
     
-    
 @app.route("/graph3.png")
 def graph3():
-    
-    # Create Figure
+    # create plot
     fig, ax1 = plt.subplots()
+    if not best_fits[2] == None:
+        r, df1, df2 = best_fits[2]
 
-    indices = sliced_df1.index if sliced_df1.index[0] == 0 else sliced_df2.index        
+        indices = df1.index if df1.index[0] == 0 else df2.index        
 
-    ax1.plot(indices, sliced_df1.iloc[:,1], 'b')
-    ax1.set_xlabel('Months')
-    ax1.set_ylabel('Datset 1', color='b')
-    ax1.tick_params('y', colors='b')
+        ax1.plot(indices, df1.iloc[:,1], 'b')
+        ax1.set_xlabel('Months')
+        ax1.set_ylabel('Datset 1', color='b')
+        ax1.tick_params('y', colors='b')
 
-    ax2 = ax1.twinx()
-    ax2.plot(indices, sliced_df2.iloc[:,1], 'r')
-    ax2.set_ylabel('Dataset 2', color='r')
-    ax2.tick_params('y', colors='r')
+        ax2 = ax1.twinx()
+        ax2.plot(indices, df2.iloc[:,1], 'r')
+        ax2.set_ylabel('Dataset 2', color='r')
+        ax2.tick_params('y', colors='r')
 
-    fig.tight_layout()
+        fig.tight_layout()
     
     # Create PNG
     canvas=FigureCanvas(fig)
@@ -118,23 +115,24 @@ def graph3():
     
 @app.route("/graph4.png")
 def graph4():
-    
-    # Create Figure
+    # create plot
     fig, ax1 = plt.subplots()
+    if not best_fits[3] == None:
+        r, df1, df2 = best_fits[3]
 
-    indices = sliced_df1.index if sliced_df1.index[0] == 0 else sliced_df2.index        
+        indices = df1.index if df1.index[0] == 0 else df2.index        
 
-    ax1.plot(indices, sliced_df1.iloc[:,1], 'b')
-    ax1.set_xlabel('Months')
-    ax1.set_ylabel('Datset 1', color='b')
-    ax1.tick_params('y', colors='b')
+        ax1.plot(indices, df1.iloc[:,1], 'b')
+        ax1.set_xlabel('Months')
+        ax1.set_ylabel('Datset 1', color='b')
+        ax1.tick_params('y', colors='b')
 
-    ax2 = ax1.twinx()
-    ax2.plot(indices, sliced_df2.iloc[:,1], 'r')
-    ax2.set_ylabel('Dataset 2', color='r')
-    ax2.tick_params('y', colors='r')
+        ax2 = ax1.twinx()
+        ax2.plot(indices, df2.iloc[:,1], 'r')
+        ax2.set_ylabel('Dataset 2', color='r')
+        ax2.tick_params('y', colors='r')
 
-    fig.tight_layout()
+        fig.tight_layout()
     
     # Create PNG
     canvas=FigureCanvas(fig)
@@ -144,7 +142,6 @@ def graph4():
     response.headers['Content-Type'] = 'image/png'
 
     return response
-
     
 if __name__ == "__main__":
     app.run()
