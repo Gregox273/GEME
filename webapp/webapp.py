@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 
 app = Flask(__name__)
 
-sliced_df1 = DataFrame([1])
+best_fits = []
 
 @app.route('/')
 def main(): 
@@ -16,24 +16,20 @@ def main():
 
 @app.route('/submit', methods=['GET'])
 def submission():
-    global sliced_df1
+    filename = request.args.get('dataset')
+    global best_fits
+    best_fits = compare_to_all(filename)
 
-    dataset = r"../datasets/" + request.args.get('dataset') + ".csv"
-    df1 = read_data_frame(dataset)
-    df2 = read_data_frame(r"../datasets/realestate-loans-billions-monthl.csv") #TODO
-    r, sliced_df1, sliced_df2 = compare_datasets(df1, df2)
- 
-    print(sliced_df1)
-    # use sliced_df1.plot(0) stuff to give a matplotlib plot object
     return render_template('timeresultspage.html')
         
         
-@app.route("/graph1.png") #TODO generalise this to prevent duplication in graph2, graph3, etc.
+@app.route("/graph1.png")
 def graph1():
     # create plot
+    r, df1, df2 = best_fits[0]
     fig = plt.figure()
-    plt.plot(sliced_df1.index, sliced_df1.iloc[:,1])
-    #plt.xticks(range(len(sliced_df1.iloc[:,0])), sliced_df1.iloc[:,0])
+    plt.plot(df1.index, df1.iloc[:,1])
+    #plt.xticks(range(len(df1.iloc[:,0])), df1.iloc[:,0])
     
     # create png
     canvas=FigureCanvas(fig)
@@ -47,9 +43,10 @@ def graph1():
 @app.route("/graph2.png")
 def graph2():
     # create plot
+    r, df1, df2 = best_fits[1]
     fig = plt.figure()
-    plt.plot(sliced_df1.index, sliced_df1.iloc[:,1])
-    #plt.xticks(range(len(sliced_df1.iloc[:,0])), sliced_df1.iloc[:,0])
+    plt.plot(df1.index, df1.iloc[:,1])
+    #plt.xticks(range(len(df1.iloc[:,0])), df1.iloc[:,0])
     
     # create png
     canvas=FigureCanvas(fig)
@@ -59,14 +56,14 @@ def graph2():
     response.headers['Content-Type'] = 'image/png'
 
     return response
-    
     
 @app.route("/graph3.png")
 def graph3():
     # create plot
+    r, df1, df2 = best_fits[2]
     fig = plt.figure()
-    plt.plot(sliced_df1.index, sliced_df1.iloc[:,1])
-    #plt.xticks(range(len(sliced_df1.iloc[:,0])), sliced_df1.iloc[:,0])
+    plt.plot(df1.index, df1.iloc[:,1])
+    #plt.xticks(range(len(df1.iloc[:,0])), df1.iloc[:,0])
     
     # create png
     canvas=FigureCanvas(fig)
@@ -76,14 +73,14 @@ def graph3():
     response.headers['Content-Type'] = 'image/png'
 
     return response
-    
     
 @app.route("/graph4.png")
 def graph4():
     # create plot
+    r, df1, df2 = best_fits[3]
     fig = plt.figure()
-    plt.plot(sliced_df1.index, sliced_df1.iloc[:,1])
-    #plt.xticks(range(len(sliced_df1.iloc[:,0])), sliced_df1.iloc[:,0])
+    plt.plot(df1.index, df1.iloc[:,1])
+    #plt.xticks(range(len(df1.iloc[:,0])), df1.iloc[:,0])
     
     # create png
     canvas=FigureCanvas(fig)
@@ -93,8 +90,6 @@ def graph4():
     response.headers['Content-Type'] = 'image/png'
 
     return response
-
-
     
 if __name__ == "__main__":
     app.run()
