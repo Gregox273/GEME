@@ -22,21 +22,21 @@
 		</div>
 	</header>	
   
-  	<h2>Your search correlates most highly with:</h2>
+  	<h2>{{ origin_data }} correlates most highly with {{ dataset_1 }}</h2>
   	<br>
 
 
 <!--first row of results:-->
 	<div class="row">
 	  <div class="col-sm">
-	    <img src="/graph1.png">
-	    <h3>Correlation data set: {{ dataset_1 }}</h3>
+	    <h3>Correlation data set - {{ dataset_1 }}</h3>
 	    <p>Correlation coefficient: {{ dataset_1_r }} </p>
+	    <img src="/graph1.png">
 	  </div>
 	  <div class="col-sm">
-	    <img src="/graph2.png">
-	    <h3>Correlation data set: {{ dataset_2 }}</h3>
+	    <h3>Correlation data set - {{ dataset_2 }}</h3>
 	    <p>Correlation coefficient: {{ dataset_2_r }}</p>	    
+	    <img src="/graph2.png">
 	  </div>
 	</div>
 
@@ -45,14 +45,14 @@
 
 	<div class="row">
 	  <div class="col-sm">
+	    <h3>Correlation data set - {{ dataset_3 }}</h3>
+	    <p>Correlation coefficient: {{ dataset_3_r }}</p>
 	    <img src="/graph3.png">
-	    <h3>Correlation data set {{ dataset_3 }}</h3>
-	    <p>Correlation coefficient {{ dataset_3_r }}</p>
 	  </div>
 	  <div class="col-sm">
+	    <h3>Correlation data set - {{ dataset_4 }}</h3>
+	    <p>Correlation coefficient: {{ dataset_4_r }}</p>
 	    <img src="/graph4.png">
-	    <h3>Correlation data set {{ dataset_4 }}</h3>
-	    <p>Correlation coefficient {{ dataset_4_r }}</p>
 	  </div>
 	</div>
 

@@ -20,7 +20,16 @@ def submission():
     global best_fits
     best_fits = compare_to_all(filename)
 
-    return render_template('timeresultspage.html')
+    return render_template('timeresultspage.html', 
+    origin_data = filename, 
+    dataset_1 = best_fits[0][2].keys()[1], 
+    dataset_2 = best_fits[1][2].keys()[1], 
+    dataset_3 = best_fits[2][2].keys()[1], 
+    dataset_4 = best_fits[3][2].keys()[1],
+    dataset_1_r = best_fits[0][0], 
+    dataset_2_r = best_fits[1][0], 
+    dataset_3_r = best_fits[2][0], 
+    dataset_4_r = best_fits[3][0])
         
         
 @app.route("/graph1.png")
