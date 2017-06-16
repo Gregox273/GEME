@@ -54,12 +54,13 @@ Coords1 = []
 Coords2 = []
 file1 = sys.argv[1]
 file2 = sys.argv[2]
+hval = int(sys.argv[3])
 k1 = read(file1)
 Coords1 = getlatlon(k1,Coords1)
 
 k2 = read(file2)
 Coords2 = getlatlon(k2,Coords2)
   
-print(crossL(Coords1, Coords2, 100))
+print(crossL(Coords1, Coords2, hval))
 
 
