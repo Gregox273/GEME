@@ -1,0 +1,1157 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="OGRGeoJSON" id="OGRGeoJSON">
+	<SimpleField name="OBJECTID" type="int"></SimpleField>
+	<SimpleField name="TYPE" type="int"></SimpleField>
+	<SimpleField name="ADDRESS" type="string"></SimpleField>
+	<SimpleField name="POSTCODE" type="string"></SimpleField>
+	<SimpleField name="UPRN" type="string"></SimpleField>
+	<SimpleField name="MAP_EAST" type="string"></SimpleField>
+	<SimpleField name="MAP_NORTH" type="string"></SimpleField>
+	<SimpleField name="ACADEMY" type="string"></SimpleField>
+</Schema>
+<Folder><name>OGRGeoJSON</name>
+  <Placemark>
+	<name>Paxton</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">44</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="ADDRESS">Woodland Road</SimpleData>
+		<SimpleData name="POSTCODE">SE19 1PA</SimpleData>
+		<SimpleData name="UPRN">100023246994</SimpleData>
+		<SimpleData name="MAP_EAST">533512</SimpleData>
+		<SimpleData name="MAP_NORTH">170963</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.081627957553896,51.4221826351583</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>City Heights E-ACT Academy</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">321</SimpleData>
+		<SimpleData name="TYPE">0</SimpleData>
+		<SimpleData name="ADDRESS">33 Abbots Park</SimpleData>
+		<SimpleData name="POSTCODE">SW2 3PW</SimpleData>
+		<SimpleData name="UPRN">010091118097</SimpleData>
+		<SimpleData name="MAP_EAST">531232</SimpleData>
+		<SimpleData name="MAP_NORTH">173155</SimpleData>
+		<SimpleData name="ACADEMY">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.113153486934237,51.4421929554005</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>St Martin-in-the-Fields C of E</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">86</SimpleData>
+		<SimpleData name="TYPE">0</SimpleData>
+		<SimpleData name="ADDRESS">155 Tulse Hill</SimpleData>
+		<SimpleData name="POSTCODE">SW2 3UP</SimpleData>
+		<SimpleData name="UPRN">100023351628</SimpleData>
+		<SimpleData name="MAP_EAST">531466</SimpleData>
+		<SimpleData name="MAP_NORTH">173379</SimpleData>
+		<SimpleData name="ACADEMY">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.108382526586401,51.4444441466325</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Woodmansterne </name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">41</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="ADDRESS">Stockport Road</SimpleData>
+		<SimpleData name="POSTCODE">SW16 5XE</SimpleData>
+		<SimpleData name="UPRN">100023320010</SimpleData>
+		<SimpleData name="MAP_EAST">529734</SimpleData>
+		<SimpleData name="MAP_NORTH">169815</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.135091368879038,51.4121856312661</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Richard Atkins</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">54</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="ADDRESS">New Park Road</SimpleData>
+		<SimpleData name="POSTCODE">SW2 4JP</SimpleData>
+		<SimpleData name="UPRN">200000524677</SimpleData>
+		<SimpleData name="MAP_EAST">530256</SimpleData>
+		<SimpleData name="MAP_NORTH">173786</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.126980793155193,51.4482248429138</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Clapham Manor</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">70</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="ADDRESS">Belmont Road</SimpleData>
+		<SimpleData name="POSTCODE">SW4 0BZ</SimpleData>
+		<SimpleData name="UPRN">200000454983</SimpleData>
+		<SimpleData name="MAP_EAST">529473</SimpleData>
+		<SimpleData name="MAP_NORTH">175582</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.137460388970113,51.4644654238629</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fenstanton</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">28</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="ADDRESS">Abbots Park</SimpleData>
+		<SimpleData name="POSTCODE">SW2 3PW</SimpleData>
+		<SimpleData name="UPRN">200000452931</SimpleData>
+		<SimpleData name="MAP_EAST">531197</SimpleData>
+		<SimpleData name="MAP_NORTH">173160</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.113341849089822,51.4419466129761</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>King's Avenue</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">49</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="ADDRESS">King's Avenue</SimpleData>
+		<SimpleData name="POSTCODE">SW4 8BQ</SimpleData>
+		<SimpleData name="UPRN">100023365037</SimpleData>
+		<SimpleData name="MAP_EAST">530026</SimpleData>
+		<SimpleData name="MAP_NORTH">174783</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.129561664456507,51.4570740828743</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Michael Tippett</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">76</SimpleData>
+		<SimpleData name="TYPE">3</SimpleData>
+		<SimpleData name="ADDRESS">Heron Road</SimpleData>
+		<SimpleData name="POSTCODE">SE24 0HZ</SimpleData>
+		<SimpleData name="UPRN">100023257916</SimpleData>
+		<SimpleData name="MAP_EAST">532044</SimpleData>
+		<SimpleData name="MAP_NORTH">175325</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.10087154412237,51.4615634532937</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>St Leonard's C.E.</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">58</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="ADDRESS">42 Mitcham Lane</SimpleData>
+		<SimpleData name="POSTCODE">SW16 6NP</SimpleData>
+		<SimpleData name="UPRN">100023320542</SimpleData>
+		<SimpleData name="MAP_EAST">529710</SimpleData>
+		<SimpleData name="MAP_NORTH">171434</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.135451168529955,51.4274278167806</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Granton</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">25</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="ADDRESS">Granton Road</SimpleData>
+		<SimpleData name="POSTCODE">SW16 5AN</SimpleData>
+		<SimpleData name="UPRN">100023319950</SimpleData>
+		<SimpleData name="MAP_EAST">529288</SimpleData>
+		<SimpleData name="MAP_NORTH">170025</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.142612522227529,51.4146795003348</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>London Nautical</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">24</SimpleData>
+		<SimpleData name="TYPE">0</SimpleData>
+		<SimpleData name="ADDRESS">61 Stamford Street</SimpleData>
+		<SimpleData name="POSTCODE">SE1 9NA</SimpleData>
+		<SimpleData name="UPRN">100023226882</SimpleData>
+		<SimpleData name="MAP_EAST">531385</SimpleData>
+		<SimpleData name="MAP_NORTH">180308</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.107913232773125,51.5065645055764</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>St Saviour's C.E.</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">62</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="ADDRESS">Herne Hill Road</SimpleData>
+		<SimpleData name="POSTCODE">SE24 0AY</SimpleData>
+		<SimpleData name="UPRN">200000466313</SimpleData>
+		<SimpleData name="MAP_EAST">532228</SimpleData>
+		<SimpleData name="MAP_NORTH">175575</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.098202331379559,51.4636360345134</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>St Stephen's C.E.</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">55</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="ADDRESS">Dorset Road</SimpleData>
+		<SimpleData name="POSTCODE">SW8 1EJ</SimpleData>
+		<SimpleData name="UPRN">200000461539</SimpleData>
+		<SimpleData name="MAP_EAST">530488</SimpleData>
+		<SimpleData name="MAP_NORTH">177314</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.122242805767619,51.4796558525685</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Trinity Academy</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">90</SimpleData>
+		<SimpleData name="TYPE">0</SimpleData>
+		<SimpleData name="ADDRESS">56 Brixton Hill</SimpleData>
+		<SimpleData name="POSTCODE">SW2 1QS</SimpleData>
+		<SimpleData name="UPRN">010091121723</SimpleData>
+		<SimpleData name="MAP_EAST">530745</SimpleData>
+		<SimpleData name="MAP_NORTH">174738</SimpleData>
+		<SimpleData name="ACADEMY">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.11957224135973,51.4565314160429</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lansdowne</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">31</SimpleData>
+		<SimpleData name="TYPE">3</SimpleData>
+		<SimpleData name="ADDRESS">Argyll Close, Dalyell Road</SimpleData>
+		<SimpleData name="POSTCODE">SW9 9QL</SimpleData>
+		<SimpleData name="UPRN">100023389621</SimpleData>
+		<SimpleData name="MAP_EAST">530681</SimpleData>
+		<SimpleData name="MAP_NORTH">175912</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.119913320851333,51.466973249295</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Corpus Christi R.C. (Academy)</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">42</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="ADDRESS">13-14 Trent Road</SimpleData>
+		<SimpleData name="POSTCODE">SW2 5BL</SimpleData>
+		<SimpleData name="UPRN">200000484584</SimpleData>
+		<SimpleData name="MAP_EAST">530689</SimpleData>
+		<SimpleData name="MAP_NORTH">174628</SimpleData>
+		<SimpleData name="ACADEMY">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.120578789935928,51.4555361635454</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rosendale</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">5</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="ADDRESS">Rosendale Road</SimpleData>
+		<SimpleData name="POSTCODE">SE21 8LR</SimpleData>
+		<SimpleData name="UPRN">010090194699</SimpleData>
+		<SimpleData name="MAP_EAST">532266</SimpleData>
+		<SimpleData name="MAP_NORTH">173633</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.098193311381561,51.4463134914762</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Christ Church (Streatham) C.E.</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">36</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="ADDRESS">Cotherstone Road</SimpleData>
+		<SimpleData name="POSTCODE">SW2 3NF</SimpleData>
+		<SimpleData name="UPRN">200000458065</SimpleData>
+		<SimpleData name="MAP_EAST">530643</SimpleData>
+		<SimpleData name="MAP_NORTH">173424</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.121285441759977,51.4450620503886</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>St Jude's C.E.</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">8</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="ADDRESS">Regent Road</SimpleData>
+		<SimpleData name="POSTCODE">SE24 0EL</SimpleData>
+		<SimpleData name="UPRN">200000477932</SimpleData>
+		<SimpleData name="MAP_EAST">531761</SimpleData>
+		<SimpleData name="MAP_NORTH">174518</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.10528693579459,51.4542550111702</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Elm Wood</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">32</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="ADDRESS">Carnac Street</SimpleData>
+		<SimpleData name="POSTCODE">SE27 9RR</SimpleData>
+		<SimpleData name="UPRN">100023266752</SimpleData>
+		<SimpleData name="MAP_EAST">532733</SimpleData>
+		<SimpleData name="MAP_NORTH">172061</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.092118135394453,51.4320356761201</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jessop</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">69</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="ADDRESS">Lowden Road</SimpleData>
+		<SimpleData name="POSTCODE">SE24 0BJ</SimpleData>
+		<SimpleData name="UPRN">200000524753</SimpleData>
+		<SimpleData name="MAP_EAST">532000</SimpleData>
+		<SimpleData name="MAP_NORTH">175160</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.101091685434419,51.4601077591076</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aurora House</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">89</SimpleData>
+		<SimpleData name="TYPE">3</SimpleData>
+		<SimpleData name="ADDRESS">30 Wootton Street</SimpleData>
+		<SimpleData name="POSTCODE">SE1 8AZ</SimpleData>
+		<SimpleData name="UPRN">010090197051</SimpleData>
+		<SimpleData name="MAP_EAST">531432</SimpleData>
+		<SimpleData name="MAP_NORTH">180032</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.107721823924587,51.5039475063922</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Julian's Primary School Streatham</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">80</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="ADDRESS">226 Leigham Court Road</SimpleData>
+		<SimpleData name="POSTCODE">SW16 2RB</SimpleData>
+		<SimpleData name="UPRN">100023318258</SimpleData>
+		<SimpleData name="MAP_EAST">531121</SimpleData>
+		<SimpleData name="MAP_NORTH">171733</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.115666517941413,51.4292508764989</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Holy Trinity C.E.</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">16</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="ADDRESS">Upper Tulse Hill</SimpleData>
+		<SimpleData name="POSTCODE">SW2 2RL</SimpleData>
+		<SimpleData name="UPRN">200000485274</SimpleData>
+		<SimpleData name="MAP_EAST">530854</SimpleData>
+		<SimpleData name="MAP_NORTH">173742</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.118738927791021,51.4475690257837</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Henry Cavendish (Balham)</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">13</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="ADDRESS">Hydethorpe Road</SimpleData>
+		<SimpleData name="POSTCODE">SW12 0JA</SimpleData>
+		<SimpleData name="UPRN">200000467195</SimpleData>
+		<SimpleData name="MAP_EAST">529164</SimpleData>
+		<SimpleData name="MAP_NORTH">173386</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.143690891253817,51.4444044074436</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ashmole </name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">33</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="ADDRESS">Ashmole Street</SimpleData>
+		<SimpleData name="POSTCODE">SW8 1NT</SimpleData>
+		<SimpleData name="UPRN">100023570718</SimpleData>
+		<SimpleData name="MAP_EAST">530994</SimpleData>
+		<SimpleData name="MAP_NORTH">177580</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.115228486704535,51.4819536582275</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Telferscot</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">20</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="ADDRESS">Telferscot Road</SimpleData>
+		<SimpleData name="POSTCODE">SW12 0HW</SimpleData>
+		<SimpleData name="UPRN">100023572915</SimpleData>
+		<SimpleData name="MAP_EAST">529592</SimpleData>
+		<SimpleData name="MAP_NORTH">173220</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.136881833414306,51.4429490278464</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Heathbrook</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">39</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="ADDRESS">St Rule Street</SimpleData>
+		<SimpleData name="POSTCODE">SW8 3EH</SimpleData>
+		<SimpleData name="UPRN">100023384661</SimpleData>
+		<SimpleData name="MAP_EAST">529067</SimpleData>
+		<SimpleData name="MAP_NORTH">176207</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.143332886662063,51.4698128364026</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Norwood</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">57</SimpleData>
+		<SimpleData name="TYPE">0</SimpleData>
+		<SimpleData name="ADDRESS">Crown Dale</SimpleData>
+		<SimpleData name="POSTCODE">SE19 3NY</SimpleData>
+		<SimpleData name="UPRN">200000460903</SimpleData>
+		<SimpleData name="MAP_EAST">532224</SimpleData>
+		<SimpleData name="MAP_NORTH">171065</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.099199043592839,51.4234014710375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>St Mary's R.C.</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">11</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="ADDRESS">Crescent Lane</SimpleData>
+		<SimpleData name="POSTCODE">SW4 9QJ</SimpleData>
+		<SimpleData name="UPRN">200000460648</SimpleData>
+		<SimpleData name="MAP_EAST">529435</SimpleData>
+		<SimpleData name="MAP_NORTH">175007</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.137911995229715,51.4591777720592</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Iqra</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">6</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="ADDRESS">Park Hill</SimpleData>
+		<SimpleData name="POSTCODE">SW4 9PA</SimpleData>
+		<SimpleData name="UPRN">200000476089</SimpleData>
+		<SimpleData name="MAP_EAST">530021</SimpleData>
+		<SimpleData name="MAP_NORTH">174576</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.130077935312759,51.4551591452796</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>St Mark's C.E.</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">29</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="ADDRESS">Harleyford Road</SimpleData>
+		<SimpleData name="POSTCODE">SE11 5SL</SimpleData>
+		<SimpleData name="UPRN">200000465663</SimpleData>
+		<SimpleData name="MAP_EAST">530822</SimpleData>
+		<SimpleData name="MAP_NORTH">177860</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.117154083616181,51.4846997789954</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bonneville</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">66</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="ADDRESS">Bonneville Gardens</SimpleData>
+		<SimpleData name="POSTCODE">SW4 9LB</SimpleData>
+		<SimpleData name="UPRN">100023365455</SimpleData>
+		<SimpleData name="MAP_EAST">529358</SimpleData>
+		<SimpleData name="MAP_NORTH">174325</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.13933934085448,51.4528231602522</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Turney </name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">34</SimpleData>
+		<SimpleData name="TYPE">3</SimpleData>
+		<SimpleData name="ADDRESS">Turney Road</SimpleData>
+		<SimpleData name="POSTCODE">SE21 8LX</SimpleData>
+		<SimpleData name="UPRN">100023252921</SimpleData>
+		<SimpleData name="MAP_EAST">532284</SimpleData>
+		<SimpleData name="MAP_NORTH">173718</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.097961353266087,51.4470338327614</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hill Mead</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">27</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="ADDRESS">Moorland Road</SimpleData>
+		<SimpleData name="POSTCODE">SW9 8UE</SimpleData>
+		<SimpleData name="UPRN">200000466650</SimpleData>
+		<SimpleData name="MAP_EAST">531580</SimpleData>
+		<SimpleData name="MAP_NORTH">175364</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.107293959500794,51.4618051873416</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunraven</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">61</SimpleData>
+		<SimpleData name="TYPE">0</SimpleData>
+		<SimpleData name="ADDRESS">94-98 Leigham Court Road</SimpleData>
+		<SimpleData name="POSTCODE">SW16 2QB</SimpleData>
+		<SimpleData name="UPRN">100023572074</SimpleData>
+		<SimpleData name="MAP_EAST">530798</SimpleData>
+		<SimpleData name="MAP_NORTH">172133</SimpleData>
+		<SimpleData name="ACADEMY">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.12038070375212,51.4330739680161</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>St Anne's R.C.</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">60</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="ADDRESS">6 Durham Street</SimpleData>
+		<SimpleData name="POSTCODE">SE11 5JA</SimpleData>
+		<SimpleData name="UPRN">100023230064</SimpleData>
+		<SimpleData name="MAP_EAST">530677</SimpleData>
+		<SimpleData name="MAP_NORTH">177973</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.119493212844277,51.4856322343955</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>St Gabriel's College (Brooke site)</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">77</SimpleData>
+		<SimpleData name="TYPE">0</SimpleData>
+		<SimpleData name="ADDRESS">Langton Road</SimpleData>
+		<SimpleData name="POSTCODE">SW9 6UL</SimpleData>
+		<SimpleData name="UPRN">200000470196</SimpleData>
+		<SimpleData name="MAP_EAST">531881</SimpleData>
+		<SimpleData name="MAP_NORTH">176931</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.102474419926583,51.4758861413929</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Streatham Wells</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">26</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="ADDRESS">50 Palace Road</SimpleData>
+		<SimpleData name="POSTCODE">SW2 3NJ</SimpleData>
+		<SimpleData name="UPRN">100023352500</SimpleData>
+		<SimpleData name="MAP_EAST">531067</SimpleData>
+		<SimpleData name="MAP_NORTH">172913</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.116190472856414,51.4399263921582</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vauxhall</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">3</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="ADDRESS">Vauxhall Street</SimpleData>
+		<SimpleData name="POSTCODE">SE11 5LG</SimpleData>
+		<SimpleData name="UPRN">100023230109</SimpleData>
+		<SimpleData name="MAP_EAST">530782</SimpleData>
+		<SimpleData name="MAP_NORTH">178344</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.117929014698297,51.4886492063598</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bishop Thomas Grant R.C.</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">15</SimpleData>
+		<SimpleData name="TYPE">0</SimpleData>
+		<SimpleData name="ADDRESS">Bell Trees Grove</SimpleData>
+		<SimpleData name="POSTCODE">SW16 2HY</SimpleData>
+		<SimpleData name="UPRN">200000454981</SimpleData>
+		<SimpleData name="MAP_EAST">530893</SimpleData>
+		<SimpleData name="MAP_NORTH">171230</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.118773295253843,51.4249726151194</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kingswood Primary (Upper)</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">82</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="ADDRESS">188 Gipsy Road</SimpleData>
+		<SimpleData name="POSTCODE">SE27 9RD</SimpleData>
+		<SimpleData name="UPRN">100023571778</SimpleData>
+		<SimpleData name="MAP_EAST">532880</SimpleData>
+		<SimpleData name="MAP_NORTH">171495</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.090229188307681,51.4269017354754</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hitherfield</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">75</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="ADDRESS">Hitherfield Road</SimpleData>
+		<SimpleData name="POSTCODE">SW16 2JQ</SimpleData>
+		<SimpleData name="UPRN">200000466729</SimpleData>
+		<SimpleData name="MAP_EAST">531070</SimpleData>
+		<SimpleData name="MAP_NORTH">172524</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.115107599725113,51.4363994772574</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Reay</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">65</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="ADDRESS">Hackford Road</SimpleData>
+		<SimpleData name="POSTCODE">SW9 0EN</SimpleData>
+		<SimpleData name="UPRN">100023386255</SimpleData>
+		<SimpleData name="MAP_EAST">530997</SimpleData>
+		<SimpleData name="MAP_NORTH">177078</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.115405088118728,51.4773966900071</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Herbert Morrison</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">21</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="ADDRESS">Hartington Road</SimpleData>
+		<SimpleData name="POSTCODE">SW8 2HP</SimpleData>
+		<SimpleData name="UPRN">200000465708</SimpleData>
+		<SimpleData name="MAP_EAST">530243</SimpleData>
+		<SimpleData name="MAP_NORTH">177187</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.125811257491854,51.4786921619295</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Crown Lane</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">10</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="ADDRESS">Crown Lane</SimpleData>
+		<SimpleData name="POSTCODE">SW16 3HX</SimpleData>
+		<SimpleData name="UPRN">200000460906</SimpleData>
+		<SimpleData name="MAP_EAST">531573</SimpleData>
+		<SimpleData name="MAP_NORTH">171076</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.109228416616,51.423579552023</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Henry Fawcett</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">18</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="ADDRESS">Bowling Green Street</SimpleData>
+		<SimpleData name="POSTCODE">SE11 5BZ</SimpleData>
+		<SimpleData name="UPRN">200000459612</SimpleData>
+		<SimpleData name="MAP_EAST">531198</SimpleData>
+		<SimpleData name="MAP_NORTH">177885</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.112227317195238,51.4845442427171</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Immanuel &amp; St Andrew's C.E.</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">51</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="ADDRESS">Buckleigh Road</SimpleData>
+		<SimpleData name="POSTCODE">SW16 5SL</SimpleData>
+		<SimpleData name="UPRN">200000456798</SimpleData>
+		<SimpleData name="MAP_EAST">530019</SimpleData>
+		<SimpleData name="MAP_NORTH">170581</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.131512502138696,51.4191646486274</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>St Luke's C.E.</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">30</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="ADDRESS">Linton Grove</SimpleData>
+		<SimpleData name="POSTCODE">SE27 0DZ</SimpleData>
+		<SimpleData name="UPRN">200000471131</SimpleData>
+		<SimpleData name="MAP_EAST">532197</SimpleData>
+		<SimpleData name="MAP_NORTH">171468</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.099847902968941,51.4264842409226</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>St Gabriel's College (Dennen site)</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">79</SimpleData>
+		<SimpleData name="TYPE">0</SimpleData>
+		<SimpleData name="ADDRESS">Cormont Road</SimpleData>
+		<SimpleData name="POSTCODE">SE5 9RF</SimpleData>
+		<SimpleData name="UPRN">200000460432</SimpleData>
+		<SimpleData name="MAP_EAST">531654</SimpleData>
+		<SimpleData name="MAP_NORTH">176671</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.106136162189842,51.4736388182683</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Glenbrook</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">4</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="ADDRESS">Clarence Avenue</SimpleData>
+		<SimpleData name="POSTCODE">SW4 8LD</SimpleData>
+		<SimpleData name="UPRN">100023571403</SimpleData>
+		<SimpleData name="MAP_EAST">529881</SimpleData>
+		<SimpleData name="MAP_NORTH">174323</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.132252235781602,51.4528807896184</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sudbourne</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">72</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="ADDRESS">Hayter Road</SimpleData>
+		<SimpleData name="POSTCODE">SW2 5AP</SimpleData>
+		<SimpleData name="UPRN">100023354215</SimpleData>
+		<SimpleData name="MAP_EAST">530757</SimpleData>
+		<SimpleData name="MAP_NORTH">174948</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.11972845480839,51.4582386754515</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Oasis Academy Johanna</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">23</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="ADDRESS">Johanna Street</SimpleData>
+		<SimpleData name="POSTCODE">SE1 7RH</SimpleData>
+		<SimpleData name="UPRN">100023225523</SimpleData>
+		<SimpleData name="MAP_EAST">531185</SimpleData>
+		<SimpleData name="MAP_NORTH">179665</SimpleData>
+		<SimpleData name="ACADEMY">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.111408676494033,51.5007624989376</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wyvil</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">46</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="ADDRESS">Wyvil Road</SimpleData>
+		<SimpleData name="POSTCODE">SW8 2TJ</SimpleData>
+		<SimpleData name="UPRN">100023384015</SimpleData>
+		<SimpleData name="MAP_EAST">530264</SimpleData>
+		<SimpleData name="MAP_NORTH">177481</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.125456481179566,51.4812746163519</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Loughborough</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">1</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="ADDRESS">Minet Road</SimpleData>
+		<SimpleData name="POSTCODE">SW9 7UA</SimpleData>
+		<SimpleData name="UPRN">200000472804</SimpleData>
+		<SimpleData name="MAP_EAST">531716</SimpleData>
+		<SimpleData name="MAP_NORTH">176212</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.105112656425352,51.4695917507618</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lark Hall</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">73</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="ADDRESS">Smedley Street</SimpleData>
+		<SimpleData name="POSTCODE">SW4 6PH</SimpleData>
+		<SimpleData name="UPRN">010000444684</SimpleData>
+		<SimpleData name="MAP_EAST">530014</SimpleData>
+		<SimpleData name="MAP_NORTH">176274</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.130053791484211,51.4701216325999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>St Bernadette R.C.</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">2</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="ADDRESS">Atkins Road</SimpleData>
+		<SimpleData name="POSTCODE">SW12 0AB</SimpleData>
+		<SimpleData name="UPRN">200000453943</SimpleData>
+		<SimpleData name="MAP_EAST">529155</SimpleData>
+		<SimpleData name="MAP_NORTH">173649</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.142970203143707,51.4470869808175</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Livity</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">68</SimpleData>
+		<SimpleData name="TYPE">3</SimpleData>
+		<SimpleData name="ADDRESS">35A  Adare Walk</SimpleData>
+		<SimpleData name="POSTCODE">SW16 2PW</SimpleData>
+		<SimpleData name="UPRN">010090203456</SimpleData>
+		<SimpleData name="MAP_EAST">530513</SimpleData>
+		<SimpleData name="MAP_NORTH">172519</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.123691979755765,51.436674374549</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>St Bede's R.C.</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">56</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="ADDRESS">Thornton Road</SimpleData>
+		<SimpleData name="POSTCODE">SW12 0LF</SimpleData>
+		<SimpleData name="UPRN">200000483857</SimpleData>
+		<SimpleData name="MAP_EAST">529666</SimpleData>
+		<SimpleData name="MAP_NORTH">173374</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.135620599784161,51.4445077493742</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lilian Baylis Technology</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">37</SimpleData>
+		<SimpleData name="TYPE">0</SimpleData>
+		<SimpleData name="ADDRESS">323 Kennington Lane</SimpleData>
+		<SimpleData name="POSTCODE">SE11 5QY</SimpleData>
+		<SimpleData name="UPRN">010008785986</SimpleData>
+		<SimpleData name="MAP_EAST">530783</SimpleData>
+		<SimpleData name="MAP_NORTH">178022</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.117836885087847,51.486324935249</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sunnyhill</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">48</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="ADDRESS">Sunnyhill Road</SimpleData>
+		<SimpleData name="POSTCODE">SW16 2UW</SimpleData>
+		<SimpleData name="UPRN">100023318311</SimpleData>
+		<SimpleData name="MAP_EAST">530786</SimpleData>
+		<SimpleData name="MAP_NORTH">171686</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.120394994562046,51.4291989880419</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunraven</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">85</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="ADDRESS">94-98 Leigham Court Road</SimpleData>
+		<SimpleData name="UPRN">100023572074</SimpleData>
+		<SimpleData name="MAP_EAST">530782</SimpleData>
+		<SimpleData name="MAP_NORTH">172108</SimpleData>
+		<SimpleData name="ACADEMY">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.120018670253825,51.432894546197</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Elmgreen</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">64</SimpleData>
+		<SimpleData name="TYPE">0</SimpleData>
+		<SimpleData name="ADDRESS">Elmcourt Road</SimpleData>
+		<SimpleData name="POSTCODE">SE27 9BZ</SimpleData>
+		<SimpleData name="UPRN">200000462875</SimpleData>
+		<SimpleData name="MAP_EAST">531984</SimpleData>
+		<SimpleData name="MAP_NORTH">172792</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.102399904039054,51.4385162361209</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>St John's The Divine C.E.</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">53</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="ADDRESS">Warham Street</SimpleData>
+		<SimpleData name="POSTCODE">SE5 0SX</SimpleData>
+		<SimpleData name="MAP_EAST">531779</SimpleData>
+		<SimpleData name="MAP_NORTH">177268</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.10375166139267,51.4790332104842</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>St Helen's R.C.</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">12</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="ADDRESS">Knowle Close</SimpleData>
+		<SimpleData name="POSTCODE">SW9 0TQ</SimpleData>
+		<SimpleData name="UPRN">200000469562</SimpleData>
+		<SimpleData name="MAP_EAST">531142</SimpleData>
+		<SimpleData name="MAP_NORTH">175926</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.113557358968171,51.4671569930722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Park Campus</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">59</SimpleData>
+		<SimpleData name="TYPE">0</SimpleData>
+		<SimpleData name="ADDRESS">Gipsy Road</SimpleData>
+		<SimpleData name="POSTCODE">SE27 9TG</SimpleData>
+		<SimpleData name="UPRN">010090196375</SimpleData>
+		<SimpleData name="MAP_EAST">532328</SimpleData>
+		<SimpleData name="MAP_NORTH">171637</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.097908088305901,51.428226981696</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Oasis Academy South Bank</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">88</SimpleData>
+		<SimpleData name="TYPE">0</SimpleData>
+		<SimpleData name="ADDRESS">75 Westminster Bridge Road</SimpleData>
+		<SimpleData name="POSTCODE">SE1 7HS</SimpleData>
+		<SimpleData name="UPRN">010091119897</SimpleData>
+		<SimpleData name="MAP_EAST">531168</SimpleData>
+		<SimpleData name="MAP_NORTH">179417</SimpleData>
+		<SimpleData name="ACADEMY">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.111751598062675,51.4984816834166</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Orchard</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">19</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="ADDRESS">Christchurch Road</SimpleData>
+		<SimpleData name="POSTCODE">SW2 3ET</SimpleData>
+		<SimpleData name="UPRN">200000458012</SimpleData>
+		<SimpleData name="MAP_EAST">530568</SimpleData>
+		<SimpleData name="MAP_NORTH">173476</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.122535754142103,51.4451847887457</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>La Retraite R.C.</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">17</SimpleData>
+		<SimpleData name="TYPE">0</SimpleData>
+		<SimpleData name="ADDRESS">Aitkins Road</SimpleData>
+		<SimpleData name="POSTCODE">SW12 0AB</SimpleData>
+		<SimpleData name="UPRN">200000453941</SimpleData>
+		<SimpleData name="MAP_EAST">529018</SimpleData>
+		<SimpleData name="MAP_NORTH">173735</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.144433733527517,51.4479184522392</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>St Andrew's C.E.</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">52</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="ADDRESS">Kay Road</SimpleData>
+		<SimpleData name="POSTCODE">SW9 9DE</SimpleData>
+		<SimpleData name="UPRN">200000467628</SimpleData>
+		<SimpleData name="MAP_EAST">530509</SimpleData>
+		<SimpleData name="MAP_NORTH">176083</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.122677685030611,51.4688933456697</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Macaulay C.E.</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">63</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="ADDRESS">Victoria Rise</SimpleData>
+		<SimpleData name="POSTCODE">SW4 0NU</SimpleData>
+		<SimpleData name="UPRN">200000485617</SimpleData>
+		<SimpleData name="MAP_EAST">528789</SimpleData>
+		<SimpleData name="MAP_NORTH">175481</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.147444890727461,51.4636178949642</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Allen Edwards</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">45</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="ADDRESS">Studley Road, Larkhall Lane </SimpleData>
+		<SimpleData name="POSTCODE">SW4 6RP</SimpleData>
+		<SimpleData name="UPRN">200000470294</SimpleData>
+		<SimpleData name="MAP_EAST">530145</SimpleData>
+		<SimpleData name="MAP_NORTH">176488</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.127661329951265,51.4726984000648</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Elm Court</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">14</SimpleData>
+		<SimpleData name="TYPE">3</SimpleData>
+		<SimpleData name="ADDRESS">Elm Park</SimpleData>
+		<SimpleData name="POSTCODE">SW2 2EF</SimpleData>
+		<SimpleData name="UPRN">200000462853</SimpleData>
+		<SimpleData name="MAP_EAST">530936</SimpleData>
+		<SimpleData name="MAP_NORTH">173802</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.117181932887428,51.448097420287</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Archbishop Sumner C.E. </name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">47</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="ADDRESS">Reedworth Street</SimpleData>
+		<SimpleData name="POSTCODE">SE11 4PH</SimpleData>
+		<SimpleData name="UPRN">200000477868</SimpleData>
+		<SimpleData name="MAP_EAST">531312</SimpleData>
+		<SimpleData name="MAP_NORTH">178654</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.109464791594235,51.4916419509071</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Durand Academy</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">9</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="ADDRESS">Hackford Road</SimpleData>
+		<SimpleData name="POSTCODE">SW9 0RD</SimpleData>
+		<SimpleData name="UPRN">100023385680</SimpleData>
+		<SimpleData name="MAP_EAST">530946</SimpleData>
+		<SimpleData name="MAP_NORTH">176760</SimpleData>
+		<SimpleData name="ACADEMY">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.116008154178666,51.4746345249971</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lambeth Academy</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">71</SimpleData>
+		<SimpleData name="TYPE">0</SimpleData>
+		<SimpleData name="ADDRESS">Elms Road</SimpleData>
+		<SimpleData name="POSTCODE">SW4 9ET</SimpleData>
+		<SimpleData name="UPRN">010008794029</SimpleData>
+		<SimpleData name="MAP_EAST">529326</SimpleData>
+		<SimpleData name="MAP_NORTH">174800</SimpleData>
+		<SimpleData name="ACADEMY">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1399121615822,51.4575991257627</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Platanos College</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">78</SimpleData>
+		<SimpleData name="TYPE">0</SimpleData>
+		<SimpleData name="ADDRESS">Clapham Road</SimpleData>
+		<SimpleData name="POSTCODE">SW9 0AL</SimpleData>
+		<SimpleData name="UPRN">200000524408</SimpleData>
+		<SimpleData name="MAP_EAST">530679</SimpleData>
+		<SimpleData name="MAP_NORTH">176586</SimpleData>
+		<SimpleData name="ACADEMY">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.119164197040614,51.4731932980615</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>St Andrew's R.C.</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">38</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="ADDRESS">Polworth Road</SimpleData>
+		<SimpleData name="POSTCODE">SW16 2ET</SimpleData>
+		<SimpleData name="UPRN">200000476614</SimpleData>
+		<SimpleData name="MAP_EAST">530283</SimpleData>
+		<SimpleData name="MAP_NORTH">171148</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.127702629055203,51.4242491444456</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Christ Church (Brixton) C.E.</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">22</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="ADDRESS">Cancell Road</SimpleData>
+		<SimpleData name="POSTCODE">SW9 6HN</SimpleData>
+		<SimpleData name="UPRN">100023571219</SimpleData>
+		<SimpleData name="MAP_EAST">531482</SimpleData>
+		<SimpleData name="MAP_NORTH">176949</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.108192968196539,51.4761896407769</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Walnut Tree Walk</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">67</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="ADDRESS">Walnut Tree Walk</SimpleData>
+		<SimpleData name="POSTCODE">SE11 6DS</SimpleData>
+		<SimpleData name="UPRN">100023231301</SimpleData>
+		<SimpleData name="MAP_EAST">531067</SimpleData>
+		<SimpleData name="MAP_NORTH">178910</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.113485857115815,51.4939426358777</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Evelyn Grace Academy</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">43</SimpleData>
+		<SimpleData name="TYPE">0</SimpleData>
+		<SimpleData name="ADDRESS">Shakespeare Road</SimpleData>
+		<SimpleData name="POSTCODE">SE24 0PZ</SimpleData>
+		<SimpleData name="UPRN">010023851851</SimpleData>
+		<SimpleData name="MAP_EAST">531845</SimpleData>
+		<SimpleData name="MAP_NORTH">175245</SimpleData>
+		<SimpleData name="ACADEMY">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.104160819039342,51.4607331111873</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jubilee</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">74</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="ADDRESS">Tulse Hill</SimpleData>
+		<SimpleData name="POSTCODE">SW2 2JE</SimpleData>
+		<SimpleData name="UPRN">010000445340</SimpleData>
+		<SimpleData name="MAP_EAST">531152</SimpleData>
+		<SimpleData name="MAP_NORTH">174290</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.114369246534693,51.4522153079641</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Archbishop Tenison's C.E.</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">40</SimpleData>
+		<SimpleData name="TYPE">0</SimpleData>
+		<SimpleData name="ADDRESS">55 Kennington Oval</SimpleData>
+		<SimpleData name="POSTCODE">SE11 5SR</SimpleData>
+		<SimpleData name="UPRN">200000468068</SimpleData>
+		<SimpleData name="MAP_EAST">530917</SimpleData>
+		<SimpleData name="MAP_NORTH">177631</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.115850714645098,51.4825364070221</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Durand Academy</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">84</SimpleData>
+		<SimpleData name="TYPE">0</SimpleData>
+		<SimpleData name="ADDRESS">Hackford Road</SimpleData>
+		<SimpleData name="POSTCODE">SW9 0RD</SimpleData>
+		<SimpleData name="UPRN">100023385680</SimpleData>
+		<SimpleData name="MAP_EAST">530959</SimpleData>
+		<SimpleData name="MAP_NORTH">176734</SimpleData>
+		<SimpleData name="ACADEMY">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.115748811023768,51.4744320002649</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Stockwell</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">35</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="ADDRESS">Stockwell Road</SimpleData>
+		<SimpleData name="POSTCODE">SW9 9TG</SimpleData>
+		<SimpleData name="UPRN">100023389736</SimpleData>
+		<SimpleData name="MAP_EAST">530821</SimpleData>
+		<SimpleData name="MAP_NORTH">175861</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.118239612083822,51.4665204853711</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>St John's Primary School</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">87</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="ADDRESS">85 Angell Road</SimpleData>
+		<SimpleData name="POSTCODE">SW9 7HH</SimpleData>
+		<SimpleData name="MAP_EAST">531466</SimpleData>
+		<SimpleData name="MAP_NORTH">176026</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.10872079916096,51.467949577941</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

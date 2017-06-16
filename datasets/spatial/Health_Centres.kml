@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="OGRGeoJSON" id="OGRGeoJSON">
+	<SimpleField name="OBJECTID" type="int"></SimpleField>
+	<SimpleField name="ADDRESS" type="string"></SimpleField>
+	<SimpleField name="POSTCODE" type="string"></SimpleField>
+	<SimpleField name="TELEPHONE" type="string"></SimpleField>
+	<SimpleField name="EASTING" type="float"></SimpleField>
+	<SimpleField name="NORTHING" type="float"></SimpleField>
+</Schema>
+<Folder><name>OGRGeoJSON</name>
+  <Placemark>
+	<name>Vauxhall Riverside Medical Centre</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">5</SimpleData>
+		<SimpleData name="ADDRESS">Ground Floor, St George Wharf, Wandsworth Road</SimpleData>
+		<SimpleData name="POSTCODE">SW8 2LZ</SimpleData>
+		<SimpleData name="TELEPHONE">020 3049 4006</SimpleData>
+		<SimpleData name="EASTING">530218.524424</SimpleData>
+		<SimpleData name="NORTHING">177958.491928</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.125959853646125,51.485594235050691</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lambeth Community Care Centre</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">8</SimpleData>
+		<SimpleData name="ADDRESS">57 Monkton Street</SimpleData>
+		<SimpleData name="POSTCODE">SE11 4TX</SimpleData>
+		<SimpleData name="TELEPHONE">020 3049 6910</SimpleData>
+		<SimpleData name="EASTING">531424</SimpleData>
+		<SimpleData name="NORTHING">178790</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.108299219211852,51.492788056320599</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Manor Health Centre</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">3</SimpleData>
+		<SimpleData name="ADDRESS">86 Clapham Manor Street</SimpleData>
+		<SimpleData name="POSTCODE">SW4 6EB</SimpleData>
+		<SimpleData name="TELEPHONE">020 3049 5600</SimpleData>
+		<SimpleData name="EASTING">529553.847185</SimpleData>
+		<SimpleData name="NORTHING">175694.50067</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.13635663287415,51.465400848142423</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Streatham Hill Primary Healthcare Centre</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">12</SimpleData>
+		<SimpleData name="ADDRESS">41A-41C Streatham Hill</SimpleData>
+		<SimpleData name="POSTCODE">SW2 4TP</SimpleData>
+		<SimpleData name="TELEPHONE">020 3049 5858</SimpleData>
+		<SimpleData name="EASTING">530436</SimpleData>
+		<SimpleData name="NORTHING">173019</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.124650215723262,51.441154454049325</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Minnie Kidd House</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">10</SimpleData>
+		<SimpleData name="ADDRESS">51C Hazelbourne Road</SimpleData>
+		<SimpleData name="POSTCODE">SW12 9NU</SimpleData>
+		<SimpleData name="TELEPHONE">020 3049 5820</SimpleData>
+		<SimpleData name="EASTING">528957</SimpleData>
+		<SimpleData name="NORTHING">174222</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.145480351133208,51.452303945559393</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Elmcourt Health Centre</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">7</SimpleData>
+		<SimpleData name="ADDRESS">214 Norwood Road</SimpleData>
+		<SimpleData name="POSTCODE">SE27 9AW</SimpleData>
+		<SimpleData name="TELEPHONE">020 3049 5700</SimpleData>
+		<SimpleData name="EASTING">531722.23399</SimpleData>
+		<SimpleData name="NORTHING">172739.374043</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.106258374271209,51.43834418574729</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gracefield Gardens Joint Service Centre</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">4</SimpleData>
+		<SimpleData name="ADDRESS">2-8 Gracefield Gardens</SimpleData>
+		<SimpleData name="POSTCODE">SW16 2ST</SimpleData>
+		<SimpleData name="TELEPHONE">020 3049 5030</SimpleData>
+		<SimpleData name="EASTING">530234.499214</SimpleData>
+		<SimpleData name="NORTHING">172061.936241</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.127899474203965,51.432599875700447</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Whittington Centre</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">14</SimpleData>
+		<SimpleData name="ADDRESS">11-13 Rutford Road</SimpleData>
+		<SimpleData name="POSTCODE">SW16 2DQ</SimpleData>
+		<SimpleData name="TELEPHONE">020 3049 5505</SimpleData>
+		<SimpleData name="EASTING">530296</SimpleData>
+		<SimpleData name="NORTHING">171227</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.127322075064871,51.425082372832371</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mary Seacole Centre</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">9</SimpleData>
+		<SimpleData name="ADDRESS">89 Clapham High Street</SimpleData>
+		<SimpleData name="POSTCODE">SW4 7DB</SimpleData>
+		<SimpleData name="TELEPHONE">020 3049 5318</SimpleData>
+		<SimpleData name="EASTING">529745</SimpleData>
+		<SimpleData name="NORTHING">175452</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.133695315137109,51.463177807137086</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>West Norwood Health and Leisure Centre</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">13</SimpleData>
+		<SimpleData name="ADDRESS">25 Devane Way</SimpleData>
+		<SimpleData name="POSTCODE">SE27 0DF</SimpleData>
+		<SimpleData name="TELEPHONE">020 3049 0780</SimpleData>
+		<SimpleData name="EASTING">531784.61</SimpleData>
+		<SimpleData name="NORTHING">172072.11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.105609572254385,51.432333227451984</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mawbey Brough Health Centre</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">1</SimpleData>
+		<SimpleData name="ADDRESS">39 Wilcox Close</SimpleData>
+		<SimpleData name="POSTCODE">SW8 2UD</SimpleData>
+		<SimpleData name="TELEPHONE">020 3049 6800</SimpleData>
+		<SimpleData name="EASTING">530262.896078</SimpleData>
+		<SimpleData name="NORTHING">177309.253177</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.125560427390729,51.479749529011571</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Akerman Health Centre</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">2</SimpleData>
+		<SimpleData name="ADDRESS">60 Patmos Road</SimpleData>
+		<SimpleData name="POSTCODE">SW9 6AF</SimpleData>
+		<SimpleData name="TELEPHONE">020 3049 6400</SimpleData>
+		<SimpleData name="EASTING">531633.204581</SimpleData>
+		<SimpleData name="NORTHING">176968.046248</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.105966071198212,51.47636631958008</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pulross Intermediate Care Centre</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">11</SimpleData>
+		<SimpleData name="ADDRESS">47A Pulross Road</SimpleData>
+		<SimpleData name="POSTCODE">SW9 8AE</SimpleData>
+		<SimpleData name="TELEPHONE">020 3049 5500</SimpleData>
+		<SimpleData name="EASTING">530584</SimpleData>
+		<SimpleData name="NORTHING">175606</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.121567930304728,51.464368987646623</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mary Sheridan Centre</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">6</SimpleData>
+		<SimpleData name="ADDRESS">5 Dugard Way</SimpleData>
+		<SimpleData name="POSTCODE">SE11 4TH</SimpleData>
+		<SimpleData name="TELEPHONE">020 3049 5960</SimpleData>
+		<SimpleData name="EASTING">531667.02137</SimpleData>
+		<SimpleData name="NORTHING">178672.961816</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.104844302570625,51.491679797200028</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

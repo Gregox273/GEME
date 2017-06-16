@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>OGRGeoJSON</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">641</SimpleData>
+		<SimpleData name="YOUTH_CENTRE_NAME">South Central Youth Ltd - Youth Project</SimpleData>
+		<SimpleData name="ADDRESS">16 Wellfield Road</SimpleData>
+		<SimpleData name="POSTCODE">SW16 2BP</SimpleData>
+		<SimpleData name="EASTING">530287</SimpleData>
+		<SimpleData name="NORTHING">171736</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.127251471685713,51.42966131504663</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">1</SimpleData>
+		<SimpleData name="YOUTH_CENTRE_NAME">Clapham Youth Centre</SimpleData>
+		<SimpleData name="ADDRESS">61 Lyham Road</SimpleData>
+		<SimpleData name="POSTCODE">SW2 5DH</SimpleData>
+		<SimpleData name="COOP_COUNCIL_EARLY_ADOPTER">86</SimpleData>
+		<SimpleData name="UPRN">200000471924</SimpleData>
+		<SimpleData name="EASTING">530185</SimpleData>
+		<SimpleData name="NORTHING">174696</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.127760786866542,51.456258549915212</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">2</SimpleData>
+		<SimpleData name="YOUTH_CENTRE_NAME">Archbishop Davidson's Institute (ADI) Play Ltd</SimpleData>
+		<SimpleData name="ADDRESS">218 Lambeth Road</SimpleData>
+		<SimpleData name="POSTCODE">SE1 7JY</SimpleData>
+		<SimpleData name="COOP_COUNCIL_EARLY_ADOPTER">83</SimpleData>
+		<SimpleData name="UPRN">200000469752</SimpleData>
+		<SimpleData name="EASTING">530766</SimpleData>
+		<SimpleData name="NORTHING">179048</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.117579195468212,51.495203299464279</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">3</SimpleData>
+		<SimpleData name="YOUTH_CENTRE_NAME">Alford House</SimpleData>
+		<SimpleData name="ADDRESS">Aveline Street</SimpleData>
+		<SimpleData name="POSTCODE">SE11 5DQ</SimpleData>
+		<SimpleData name="TOWN_CENTRE">2</SimpleData>
+		<SimpleData name="WARD">11</SimpleData>
+		<SimpleData name="COOP_COUNCIL_EARLY_ADOPTER">82</SimpleData>
+		<SimpleData name="UPRN">100023230353</SimpleData>
+		<SimpleData name="EASTING">531028</SimpleData>
+		<SimpleData name="NORTHING">178246</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.114054373816266,51.487910326226654</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">4</SimpleData>
+		<SimpleData name="YOUTH_CENTRE_NAME">Living Space </SimpleData>
+		<SimpleData name="ADDRESS">1 Coral </SimpleData>
+		<SimpleData name="POSTCODE">SE1 7BE</SimpleData>
+		<SimpleData name="COOP_COUNCIL_EARLY_ADOPTER">92</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.10890469130556,51.500883874702232</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">5</SimpleData>
+		<SimpleData name="YOUTH_CENTRE_NAME">Victory Youth Group</SimpleData>
+		<SimpleData name="ADDRESS">386 Brixton Road</SimpleData>
+		<SimpleData name="POSTCODE">SW9 7AW</SimpleData>
+		<SimpleData name="COOP_COUNCIL_EARLY_ADOPTER">100</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.114223429279588,51.465470065115312</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">6</SimpleData>
+		<SimpleData name="YOUTH_CENTRE_NAME">Streatham Youth Centre</SimpleData>
+		<SimpleData name="ADDRESS">Conyers Road</SimpleData>
+		<SimpleData name="POSTCODE">SW16 6LS</SimpleData>
+		<SimpleData name="COOP_COUNCIL_EARLY_ADOPTER">98</SimpleData>
+		<SimpleData name="UPRN">100023320934</SimpleData>
+		<SimpleData name="EASTING">529638</SimpleData>
+		<SimpleData name="NORTHING">170898</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.137085833473009,51.422217053424816</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">8</SimpleData>
+		<SimpleData name="YOUTH_CENTRE_NAME">Rathbone Youth Club</SimpleData>
+		<SimpleData name="ADDRESS">8 Chastworth Way</SimpleData>
+		<SimpleData name="POSTCODE">SE27 9HR</SimpleData>
+		<SimpleData name="COOP_COUNCIL_EARLY_ADOPTER">96</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.10230987277171,51.435450999525777</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">9</SimpleData>
+		<SimpleData name="YOUTH_CENTRE_NAME">Knights Youth Centre</SimpleData>
+		<SimpleData name="ADDRESS">27 Streatham Place</SimpleData>
+		<SimpleData name="POSTCODE">SW2 4QQ</SimpleData>
+		<SimpleData name="COOP_COUNCIL_EARLY_ADOPTER">90</SimpleData>
+		<SimpleData name="UPRN">200000482772</SimpleData>
+		<SimpleData name="EASTING">530196</SimpleData>
+		<SimpleData name="NORTHING">173580</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.127938109642774,51.446269104311263</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">10</SimpleData>
+		<SimpleData name="YOUTH_CENTRE_NAME">Streatham Youth and Community Trust</SimpleData>
+		<SimpleData name="ADDRESS">16 Wellfield Road</SimpleData>
+		<SimpleData name="POSTCODE">SW16 2BP</SimpleData>
+		<SimpleData name="COOP_COUNCIL_EARLY_ADOPTER">99</SimpleData>
+		<SimpleData name="UPRN">200000486426</SimpleData>
+		<SimpleData name="EASTING">530287</SimpleData>
+		<SimpleData name="NORTHING">171736</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.127247627730746,51.429614598654247</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">11</SimpleData>
+		<SimpleData name="YOUTH_CENTRE_NAME">Clapham Park Project </SimpleData>
+		<SimpleData name="ADDRESS">1-4 Brixton Hill Place</SimpleData>
+		<SimpleData name="POSTCODE">SW2 1HJ</SimpleData>
+		<SimpleData name="COOP_COUNCIL_EARLY_ADOPTER">85</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.125307621857653,51.447800488304779</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">12</SimpleData>
+		<SimpleData name="YOUTH_CENTRE_NAME">Ethelred Estate Community Youth Club</SimpleData>
+		<SimpleData name="ADDRESS">7 Lollard Street</SimpleData>
+		<SimpleData name="POSTCODE">SE11 6QH</SimpleData>
+		<SimpleData name="COOP_COUNCIL_EARLY_ADOPTER">88</SimpleData>
+		<SimpleData name="UPRN">100023230556</SimpleData>
+		<SimpleData name="EASTING">531198</SimpleData>
+		<SimpleData name="NORTHING">178636</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.111569676359321,51.491464160255617</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">14</SimpleData>
+		<SimpleData name="YOUTH_CENTRE_NAME">Emmanuel Youth and Community Centre</SimpleData>
+		<SimpleData name="ADDRESS">94-96 Clive Road</SimpleData>
+		<SimpleData name="POSTCODE">SE21 8BU</SimpleData>
+		<SimpleData name="COOP_COUNCIL_EARLY_ADOPTER">87</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.090647162674323,51.431620668885287</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">15</SimpleData>
+		<SimpleData name="YOUTH_CENTRE_NAME">Lansdowne Youth Centre</SimpleData>
+		<SimpleData name="ADDRESS">278-280 South Lambeth Road</SimpleData>
+		<SimpleData name="POSTCODE">SW8 1UJ</SimpleData>
+		<SimpleData name="TOWN_CENTRE">1</SimpleData>
+		<SimpleData name="WARD">13</SimpleData>
+		<SimpleData name="COOP_COUNCIL_EARLY_ADOPTER">91</SimpleData>
+		<SimpleData name="UPRN">100023383320
+</SimpleData>
+		<SimpleData name="EASTING">530435</SimpleData>
+		<SimpleData name="NORTHING">176826</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.123265919804662,51.475320768825483</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">16</SimpleData>
+		<SimpleData name="YOUTH_CENTRE_NAME">Old Library Youth Club</SimpleData>
+		<SimpleData name="ADDRESS">14-16 Knight's Hill</SimpleData>
+		<SimpleData name="POSTCODE">SE27 0HY</SimpleData>
+		<SimpleData name="COOP_COUNCIL_EARLY_ADOPTER">94</SimpleData>
+		<SimpleData name="UPRN">100023265727</SimpleData>
+		<SimpleData name="EASTING">531887</SimpleData>
+		<SimpleData name="NORTHING">172127</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.104069276229547,51.432822399139866</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">17</SimpleData>
+		<SimpleData name="YOUTH_CENTRE_NAME">Springfield Youth Project</SimpleData>
+		<SimpleData name="ADDRESS">6 Goldsborough House, Wandsworth Road</SimpleData>
+		<SimpleData name="POSTCODE">SW8 2RN</SimpleData>
+		<SimpleData name="COOP_COUNCIL_EARLY_ADOPTER">97</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.133263831240448,51.473219447691463</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">18</SimpleData>
+		<SimpleData name="YOUTH_CENTRE_NAME">Immanuel Youth Project</SimpleData>
+		<SimpleData name="ADDRESS">Buckleigh Road</SimpleData>
+		<SimpleData name="POSTCODE">SW16 5SL</SimpleData>
+		<SimpleData name="TOWN_CENTRE">4</SimpleData>
+		<SimpleData name="WARD">15</SimpleData>
+		<SimpleData name="COOP_COUNCIL_EARLY_ADOPTER">89</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.131429035723914,51.419218418639886</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">19</SimpleData>
+		<SimpleData name="YOUTH_CENTRE_NAME">Marcus Lipton Youth Club</SimpleData>
+		<SimpleData name="ADDRESS">Minet Road</SimpleData>
+		<SimpleData name="POSTCODE">SW9 7UH</SimpleData>
+		<SimpleData name="COOP_COUNCIL_EARLY_ADOPTER">93</SimpleData>
+		<SimpleData name="UPRN">200000472913</SimpleData>
+		<SimpleData name="EASTING">531826</SimpleData>
+		<SimpleData name="NORTHING">176054</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.103462748853158,51.468123895404773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">20</SimpleData>
+		<SimpleData name="YOUTH_CENTRE_NAME">Willington Road Youth Centre</SimpleData>
+		<SimpleData name="ADDRESS">55 Willington Road</SimpleData>
+		<SimpleData name="POSTCODE">SW9 9NB</SimpleData>
+		<SimpleData name="TOWN_CENTRE">0</SimpleData>
+		<SimpleData name="WARD">20</SimpleData>
+		<SimpleData name="COOP_COUNCIL_EARLY_ADOPTER">101</SimpleData>
+		<SimpleData name="UPRN">100023389720</SimpleData>
+		<SimpleData name="EASTING">530362</SimpleData>
+		<SimpleData name="NORTHING">175527</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.124772125868727,51.46369776289697</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">321</SimpleData>
+		<SimpleData name="YOUTH_CENTRE_NAME">Redthread Youth Work, Health and Education/Youth Club</SimpleData>
+		<SimpleData name="ADDRESS">16 Wellfield Road</SimpleData>
+		<SimpleData name="POSTCODE">SW16 2BP</SimpleData>
+		<SimpleData name="UPRN">200000486426</SimpleData>
+		<SimpleData name="EASTING">530287</SimpleData>
+		<SimpleData name="NORTHING">171736</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.127264435865107,51.429658705764119</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">322</SimpleData>
+		<SimpleData name="YOUTH_CENTRE_NAME">Isource Youth Club</SimpleData>
+		<SimpleData name="ADDRESS">St Stephens Parish Church, Weir Road</SimpleData>
+		<SimpleData name="POSTCODE">SW12 0NU</SimpleData>
+		<SimpleData name="TOWN_CENTRE">0</SimpleData>
+		<SimpleData name="UPRN">200000486393</SimpleData>
+		<SimpleData name="EASTING">529423</SimpleData>
+		<SimpleData name="NORTHING">173694</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.138970573150169,51.447452692944481</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">961</SimpleData>
+		<SimpleData name="YOUTH_CENTRE_NAME">Stockwell Sports Project</SimpleData>
+		<SimpleData name="ADDRESS">33 Priory Grove</SimpleData>
+		<SimpleData name="POSTCODE">SW8 2PD </SimpleData>
+		<SimpleData name="EASTING">530045</SimpleData>
+		<SimpleData name="NORTHING">176678</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.128922411133552,51.474123797404459</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">962</SimpleData>
+		<SimpleData name="YOUTH_CENTRE_NAME">Youth Alive</SimpleData>
+		<SimpleData name="ADDRESS">8 Harleyford Street</SimpleData>
+		<SimpleData name="POSTCODE">SE11 5SY</SimpleData>
+		<SimpleData name="EASTING">531140</SimpleData>
+		<SimpleData name="NORTHING">177641</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.112813803507025,51.482532852382889</coordinates></Point>
+  </Placemark>
+</Folder>
+<Schema name="OGRGeoJSON" id="OGRGeoJSON">
+	<SimpleField name="OBJECTID" type="int"></SimpleField>
+	<SimpleField name="YOUTH_CENTRE_NAME" type="string"></SimpleField>
+	<SimpleField name="ADDRESS" type="string"></SimpleField>
+	<SimpleField name="POSTCODE" type="string"></SimpleField>
+	<SimpleField name="TOWN_CENTRE" type="string"></SimpleField>
+	<SimpleField name="WARD" type="string"></SimpleField>
+	<SimpleField name="COOP_COUNCIL_EARLY_ADOPTER" type="string"></SimpleField>
+	<SimpleField name="UPRN" type="string"></SimpleField>
+	<SimpleField name="EASTING" type="int"></SimpleField>
+	<SimpleField name="NORTHING" type="int"></SimpleField>
+</Schema>
+</Document></kml>

@@ -1,0 +1,1343 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>OGRGeoJSON</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">St Peter's Church Crypt</SimpleData>
+		<SimpleData name="ADDRESS">Leigham Court Road</SimpleData>
+		<SimpleData name="POSTCODE">SW16 2SD</SimpleData>
+		<SimpleData name="WARD">Knights Hill</SimpleData>
+		<SimpleData name="EASTING">531144.57268766</SimpleData>
+		<SimpleData name="NORTHING">172004.03060789</SimpleData>
+		<SimpleData name="OBJECTID_1">81</SimpleData>
+		<SimpleData name="OBJECTID">81</SimpleData>
+		<SimpleData name="DISTRICT_C">NMB</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.114836609178078,51.431869781253937</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">St Luke's Church Hall</SimpleData>
+		<SimpleData name="ADDRESS">Knight's Hill</SimpleData>
+		<SimpleData name="POSTCODE">SE27 0HS</SimpleData>
+		<SimpleData name="WARD">Knights Hill</SimpleData>
+		<SimpleData name="EASTING">531937.45178779</SimpleData>
+		<SimpleData name="NORTHING">172064.59302489</SimpleData>
+		<SimpleData name="OBJECTID_1">82</SimpleData>
+		<SimpleData name="OBJECTID">82</SimpleData>
+		<SimpleData name="DISTRICT_C">NMA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.103414966456504,51.43223013885806</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">New Cut Housing Cooperative Community Room</SimpleData>
+		<SimpleData name="ADDRESS">106 The Cut</SimpleData>
+		<SimpleData name="POSTCODE">SE1 8LN</SimpleData>
+		<SimpleData name="WARD">Bishops</SimpleData>
+		<SimpleData name="EASTING">531340</SimpleData>
+		<SimpleData name="NORTHING">179886</SimpleData>
+		<SimpleData name="OBJECTID_1">84</SimpleData>
+		<SimpleData name="OBJECTID">84</SimpleData>
+		<SimpleData name="DISTRICT_C">VAA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.109100895638159,51.502656836241478</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Paxton Primary School</SimpleData>
+		<SimpleData name="ADDRESS">Woodland Road</SimpleData>
+		<SimpleData name="POSTCODE">SE18 1PA</SimpleData>
+		<SimpleData name="WARD">Gipsy Hill</SimpleData>
+		<SimpleData name="EASTING">533491</SimpleData>
+		<SimpleData name="NORTHING">170968</SimpleData>
+		<SimpleData name="OBJECTID_1">85</SimpleData>
+		<SimpleData name="OBJECTID">85</SimpleData>
+		<SimpleData name="DISTRICT_C">NNE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.081492731293629,51.422012033495079</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">St Bede's Catholic Infant and Nursery School</SimpleData>
+		<SimpleData name="ADDRESS">Thornton Road</SimpleData>
+		<SimpleData name="POSTCODE">SW12 0LF</SimpleData>
+		<SimpleData name="WARD">Thornton</SimpleData>
+		<SimpleData name="EASTING">529654</SimpleData>
+		<SimpleData name="NORTHING">173376</SimpleData>
+		<SimpleData name="OBJECTID_1">87</SimpleData>
+		<SimpleData name="OBJECTID">87</SimpleData>
+		<SimpleData name="DISTRICT_C">SSC</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.135764726274076,51.444542105865864</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Brixton Baptist Church (Corrance Road entrance)</SimpleData>
+		<SimpleData name="ADDRESS">Corrance Road</SimpleData>
+		<SimpleData name="POSTCODE">SW2 5RD</SimpleData>
+		<SimpleData name="WARD">Ferndale</SimpleData>
+		<SimpleData name="EASTING">530354</SimpleData>
+		<SimpleData name="NORTHING">175312</SimpleData>
+		<SimpleData name="OBJECTID_1">89</SimpleData>
+		<SimpleData name="OBJECTID">89</SimpleData>
+		<SimpleData name="DISTRICT_C">VFD</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.124985286924135,51.461779868202832</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Walnut Tree Walk Primary School</SimpleData>
+		<SimpleData name="ADDRESS">Walnut Tree Walk</SimpleData>
+		<SimpleData name="POSTCODE">SE11 6PY</SimpleData>
+		<SimpleData name="WARD">Princes</SimpleData>
+		<SimpleData name="EASTING">531071.52258534</SimpleData>
+		<SimpleData name="NORTHING">178926.848127</SimpleData>
+		<SimpleData name="OBJECTID_1">90</SimpleData>
+		<SimpleData name="OBJECTID">90</SimpleData>
+		<SimpleData name="DISTRICT_C">VBA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.113322728776984,51.494099601069223</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Peabody Hill Community Centre</SimpleData>
+		<SimpleData name="ADDRESS">Peabody Hill</SimpleData>
+		<SimpleData name="POSTCODE">SE21 8LA</SimpleData>
+		<SimpleData name="WARD">Thurlow Park</SimpleData>
+		<SimpleData name="EASTING">532051</SimpleData>
+		<SimpleData name="NORTHING">173193</SimpleData>
+		<SimpleData name="OBJECTID_1">92</SimpleData>
+		<SimpleData name="OBJECTID">92</SimpleData>
+		<SimpleData name="DISTRICT_C">NLB</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.101310462947658,51.442309320428912</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">West Norwood Fire Station</SimpleData>
+		<SimpleData name="ADDRESS">210 Knight's Hill</SimpleData>
+		<SimpleData name="POSTCODE">SE27 0QA</SimpleData>
+		<SimpleData name="WARD">Knights Hill</SimpleData>
+		<SimpleData name="EASTING">531856</SimpleData>
+		<SimpleData name="NORTHING">171752</SimpleData>
+		<SimpleData name="OBJECTID_1">93</SimpleData>
+		<SimpleData name="OBJECTID">93</SimpleData>
+		<SimpleData name="DISTRICT_C">NMC</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.105282240180503,51.425852229870799</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Clapham Library</SimpleData>
+		<SimpleData name="ADDRESS">89 Clapham High Street</SimpleData>
+		<SimpleData name="POSTCODE">SW4 7BD</SimpleData>
+		<SimpleData name="WARD">Ferndale</SimpleData>
+		<SimpleData name="EASTING">529650.47842181</SimpleData>
+		<SimpleData name="NORTHING">175380.09408427</SimpleData>
+		<SimpleData name="OBJECTID_1">94</SimpleData>
+		<SimpleData name="OBJECTID">94</SimpleData>
+		<SimpleData name="DISTRICT_C">VFE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.133617196666897,51.463159424606125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Springfield Methodist Church</SimpleData>
+		<SimpleData name="ADDRESS">200 Wandsworth Road</SimpleData>
+		<SimpleData name="POSTCODE">SW8 4SE</SimpleData>
+		<SimpleData name="WARD">Stockwell</SimpleData>
+		<SimpleData name="EASTING">529879</SimpleData>
+		<SimpleData name="NORTHING">176879</SimpleData>
+		<SimpleData name="OBJECTID_1">95</SimpleData>
+		<SimpleData name="OBJECTID">95</SimpleData>
+		<SimpleData name="DISTRICT_C">VDA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.131230006037234,51.475955422005377</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Longfield Hall</SimpleData>
+		<SimpleData name="ADDRESS">50 Knatchbull Road</SimpleData>
+		<SimpleData name="POSTCODE">SE5 9QY</SimpleData>
+		<SimpleData name="WARD">Vassall</SimpleData>
+		<SimpleData name="EASTING">531713</SimpleData>
+		<SimpleData name="NORTHING">176456</SimpleData>
+		<SimpleData name="OBJECTID_1">96</SimpleData>
+		<SimpleData name="DISTRICT_C">VED</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.105008454269758,51.471746219221785</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Bolney Meadow Community Centre</SimpleData>
+		<SimpleData name="ADDRESS">31 Bolney Street</SimpleData>
+		<SimpleData name="POSTCODE">SW8 1EZ</SimpleData>
+		<SimpleData name="WARD">Stockwell</SimpleData>
+		<SimpleData name="EASTING">530534</SimpleData>
+		<SimpleData name="NORTHING">177271</SimpleData>
+		<SimpleData name="OBJECTID_1">31</SimpleData>
+		<SimpleData name="OBJECTID">31</SimpleData>
+		<SimpleData name="DISTRICT_C">VDC</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.121678374373935,51.479328528976552</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Julian's Primary School</SimpleData>
+		<SimpleData name="ADDRESS">226 Leigham Court Road</SimpleData>
+		<SimpleData name="POSTCODE">SW16 2RB</SimpleData>
+		<SimpleData name="WARD">Streatham Wells</SimpleData>
+		<SimpleData name="EASTING">531089.65</SimpleData>
+		<SimpleData name="NORTHING">171675.25</SimpleData>
+		<SimpleData name="OBJECTID_1">321</SimpleData>
+		<SimpleData name="DISTRICT_C">SUE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.115747793228835,51.428927824306548</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Berridge Road Estate Community Resource Centre</SimpleData>
+		<SimpleData name="ADDRESS">13-17 Bridgetown Close</SimpleData>
+		<SimpleData name="POSTCODE">SE19 1JZ</SimpleData>
+		<SimpleData name="WARD">Gipsy Hill</SimpleData>
+		<SimpleData name="EASTING">533145</SimpleData>
+		<SimpleData name="NORTHING">171294</SimpleData>
+		<SimpleData name="OBJECTID_1">322</SimpleData>
+		<SimpleData name="DISTRICT_C">NND</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.08634361383591,51.425022958525794</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Fairley House Junior School</SimpleData>
+		<SimpleData name="ADDRESS">218 Lambeth Road</SimpleData>
+		<SimpleData name="POSTCODE">SE1 7JY</SimpleData>
+		<SimpleData name="WARD">Bishops</SimpleData>
+		<SimpleData name="EASTING">530772.9922</SimpleData>
+		<SimpleData name="NORTHING">179042.3271</SimpleData>
+		<SimpleData name="OBJECTID_1">83</SimpleData>
+		<SimpleData name="OBJECTID">83</SimpleData>
+		<SimpleData name="DISTRICT_C">VAC</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.117577771779091,51.4952064327423</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Park Campus</SimpleData>
+		<SimpleData name="ADDRESS">Gipsy Road</SimpleData>
+		<SimpleData name="POSTCODE">SE27 9NP</SimpleData>
+		<SimpleData name="WARD">Gipsy Hill</SimpleData>
+		<SimpleData name="EASTING">532323.61002557</SimpleData>
+		<SimpleData name="NORTHING">171619.50721377</SimpleData>
+		<SimpleData name="OBJECTID_1">1</SimpleData>
+		<SimpleData name="OBJECTID">1</SimpleData>
+		<SimpleData name="DISTRICT_C">NNC</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.098029320805195,51.428140359048946</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Macauley CE Primary School</SimpleData>
+		<SimpleData name="ADDRESS">Victoria Rise</SimpleData>
+		<SimpleData name="POSTCODE">SW4 0NU</SimpleData>
+		<SimpleData name="WARD">Clapham Town</SimpleData>
+		<SimpleData name="EASTING">529144.14259824</SimpleData>
+		<SimpleData name="NORTHING">175487.95814206</SimpleData>
+		<SimpleData name="OBJECTID_1">2</SimpleData>
+		<SimpleData name="OBJECTID">2</SimpleData>
+		<SimpleData name="DISTRICT_C">VHC</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.14232671141602,51.463638244997568</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Johanna Primary  School</SimpleData>
+		<SimpleData name="ADDRESS">Johanna Street, off Lower Marsh</SimpleData>
+		<SimpleData name="POSTCODE">SE1 7RH</SimpleData>
+		<SimpleData name="WARD">Bishops</SimpleData>
+		<SimpleData name="EASTING">531182.0070589</SimpleData>
+		<SimpleData name="NORTHING">179662.38225042</SimpleData>
+		<SimpleData name="OBJECTID_1">3</SimpleData>
+		<SimpleData name="OBJECTID">3</SimpleData>
+		<SimpleData name="DISTRICT_C">VAB</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.111458939844583,51.500683937530326</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Walnut Tree Walk Primary School</SimpleData>
+		<SimpleData name="ADDRESS">Walnut Tree Walk</SimpleData>
+		<SimpleData name="POSTCODE">SE11 6DS</SimpleData>
+		<SimpleData name="WARD">Bishops</SimpleData>
+		<SimpleData name="EASTING">531071.52258534</SimpleData>
+		<SimpleData name="NORTHING">178926.84812718</SimpleData>
+		<SimpleData name="OBJECTID_1">4</SimpleData>
+		<SimpleData name="OBJECTID">4</SimpleData>
+		<SimpleData name="DISTRICT_C">VAD</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.113322728776984,51.494099601069223</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">St Matthew's Church Hall</SimpleData>
+		<SimpleData name="ADDRESS">115 Lilford Road</SimpleData>
+		<SimpleData name="POSTCODE">SE5 9HY</SimpleData>
+		<SimpleData name="WARD">Herne Hill</SimpleData>
+		<SimpleData name="EASTING">532148.57088109</SimpleData>
+		<SimpleData name="NORTHING">176156.08332352</SimpleData>
+		<SimpleData name="OBJECTID_1">5</SimpleData>
+		<SimpleData name="OBJECTID">5</SimpleData>
+		<SimpleData name="DISTRICT_C">NKA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.098852925489582,51.468949534196767</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">St Saviour's Church Hall</SimpleData>
+		<SimpleData name="ADDRESS">69 Herne Hill Road</SimpleData>
+		<SimpleData name="POSTCODE">SE24 0AY</SimpleData>
+		<SimpleData name="WARD">Herne Hill</SimpleData>
+		<SimpleData name="EASTING">532232.6310789</SimpleData>
+		<SimpleData name="NORTHING">175496.55974424</SimpleData>
+		<SimpleData name="OBJECTID_1">6</SimpleData>
+		<SimpleData name="OBJECTID">6</SimpleData>
+		<SimpleData name="DISTRICT_C">NKB</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.097889916586459,51.46300306899726</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Jessop Primary School</SimpleData>
+		<SimpleData name="ADDRESS">Lowden Road</SimpleData>
+		<SimpleData name="POSTCODE">SE24 0BJ</SimpleData>
+		<SimpleData name="WARD">Herne Hill</SimpleData>
+		<SimpleData name="EASTING">532002.80143566</SimpleData>
+		<SimpleData name="NORTHING">175161.34722624</SimpleData>
+		<SimpleData name="OBJECTID_1">7</SimpleData>
+		<SimpleData name="OBJECTID">7</SimpleData>
+		<SimpleData name="DISTRICT_C">NKC</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.101321411896277,51.460044252790063</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">St Judes CE Primary School</SimpleData>
+		<SimpleData name="ADDRESS">Regent Road</SimpleData>
+		<SimpleData name="POSTCODE">SE24 0EL</SimpleData>
+		<SimpleData name="WARD">Herne Hill</SimpleData>
+		<SimpleData name="EASTING">531752.09447393</SimpleData>
+		<SimpleData name="NORTHING">174514.95436396</SimpleData>
+		<SimpleData name="OBJECTID_1">8</SimpleData>
+		<SimpleData name="OBJECTID">8</SimpleData>
+		<SimpleData name="DISTRICT_C">NKD</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.105168581398286,51.454293728373678</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Holy Trinity Church</SimpleData>
+		<SimpleData name="ADDRESS">Trinity Rise</SimpleData>
+		<SimpleData name="POSTCODE">SW2 2QP</SimpleData>
+		<SimpleData name="WARD">Thurlow Park</SimpleData>
+		<SimpleData name="EASTING">531484.53350725</SimpleData>
+		<SimpleData name="NORTHING">173488.17215533</SimpleData>
+		<SimpleData name="OBJECTID_1">9</SimpleData>
+		<SimpleData name="OBJECTID">9</SimpleData>
+		<SimpleData name="DISTRICT_C">NLA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.109398369428353,51.445128547115409</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Rosendale Primary School</SimpleData>
+		<SimpleData name="ADDRESS">Rosendale Road / Turney Road</SimpleData>
+		<SimpleData name="POSTCODE">SE21 8LR</SimpleData>
+		<SimpleData name="WARD">Thurlow Park</SimpleData>
+		<SimpleData name="EASTING">532234.89000181</SimpleData>
+		<SimpleData name="NORTHING">173678.27572187</SimpleData>
+		<SimpleData name="OBJECTID_1">10</SimpleData>
+		<SimpleData name="OBJECTID">10</SimpleData>
+		<SimpleData name="DISTRICT_C">NLC</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.098536547578381,51.446662393129522</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Goodwin Hall, Chatsworth Baptist Church</SimpleData>
+		<SimpleData name="ADDRESS">Chatsworth Way</SimpleData>
+		<SimpleData name="POSTCODE">SE27 9HN</SimpleData>
+		<SimpleData name="WARD">Thurlow Park</SimpleData>
+		<SimpleData name="EASTING">532084.59651727</SimpleData>
+		<SimpleData name="NORTHING">172490.06811622</SimpleData>
+		<SimpleData name="OBJECTID_1">12</SimpleData>
+		<SimpleData name="OBJECTID">12</SimpleData>
+		<SimpleData name="DISTRICT_C">NLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.101140932677693,51.436019473518776</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Hill Mead Primary School</SimpleData>
+		<SimpleData name="ADDRESS">Hillmead Drive, Moorland Road</SimpleData>
+		<SimpleData name="POSTCODE">SW9 8UE</SimpleData>
+		<SimpleData name="WARD">Coldharbour</SimpleData>
+		<SimpleData name="EASTING">531583.00750517</SimpleData>
+		<SimpleData name="NORTHING">175348.1278804</SimpleData>
+		<SimpleData name="OBJECTID_1">13</SimpleData>
+		<SimpleData name="OBJECTID">13</SimpleData>
+		<SimpleData name="DISTRICT_C">NJD</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.107290999518449,51.461820427922653</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Effra Road Chapel</SimpleData>
+		<SimpleData name="ADDRESS">63 Effra Road</SimpleData>
+		<SimpleData name="POSTCODE">SW2 1BZ</SimpleData>
+		<SimpleData name="WARD">Coldharbour</SimpleData>
+		<SimpleData name="EASTING">531153.36167194</SimpleData>
+		<SimpleData name="NORTHING">174808.24130073</SimpleData>
+		<SimpleData name="OBJECTID_1">14</SimpleData>
+		<SimpleData name="OBJECTID">14</SimpleData>
+		<SimpleData name="DISTRICT_C">NJC</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.113672069358718,51.457068281031958</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Loughborough Primary School</SimpleData>
+		<SimpleData name="ADDRESS">Minet Road</SimpleData>
+		<SimpleData name="POSTCODE">SW9 7UA</SimpleData>
+		<SimpleData name="WARD">Coldharbour</SimpleData>
+		<SimpleData name="EASTING">531699.06254502</SimpleData>
+		<SimpleData name="NORTHING">176226.27035398</SimpleData>
+		<SimpleData name="OBJECTID_1">15</SimpleData>
+		<SimpleData name="OBJECTID">15</SimpleData>
+		<SimpleData name="DISTRICT_C">NJB</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.105294540509505,51.469684974980382</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Triangle Nursery School</SimpleData>
+		<SimpleData name="ADDRESS">25 William Bonney Estate</SimpleData>
+		<SimpleData name="POSTCODE">SW4 7JQ</SimpleData>
+		<SimpleData name="WARD">Clapham Town</SimpleData>
+		<SimpleData name="EASTING">529786.49063344</SimpleData>
+		<SimpleData name="NORTHING">175192.43584485</SimpleData>
+		<SimpleData name="OBJECTID_1">16</SimpleData>
+		<SimpleData name="OBJECTID">16</SimpleData>
+		<SimpleData name="DISTRICT_C">VHD</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.133193583929404,51.460835665863307</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Heathbrook Primary School</SimpleData>
+		<SimpleData name="ADDRESS">St Rule Street</SimpleData>
+		<SimpleData name="POSTCODE">SW8 3EH</SimpleData>
+		<SimpleData name="WARD">Clapham Town</SimpleData>
+		<SimpleData name="EASTING">529077.23852643</SimpleData>
+		<SimpleData name="NORTHING">176173.45244</SimpleData>
+		<SimpleData name="OBJECTID_1">17</SimpleData>
+		<SimpleData name="OBJECTID">17</SimpleData>
+		<SimpleData name="DISTRICT_C">VHB</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.143039183938814,51.469813885980635</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Clapham Manor Primary School</SimpleData>
+		<SimpleData name="ADDRESS">Belmont Road</SimpleData>
+		<SimpleData name="POSTCODE">SW4 0BZ</SimpleData>
+		<SimpleData name="WARD">Clapham Town</SimpleData>
+		<SimpleData name="EASTING">529488.48822421</SimpleData>
+		<SimpleData name="NORTHING">175591.03296664</SimpleData>
+		<SimpleData name="OBJECTID_1">18</SimpleData>
+		<SimpleData name="OBJECTID">18</SimpleData>
+		<SimpleData name="DISTRICT_C">VHA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.137334858954823,51.464485952327422</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">St Andrew's CE Primary School</SimpleData>
+		<SimpleData name="ADDRESS">Kay Road</SimpleData>
+		<SimpleData name="POSTCODE">SW9 9DE</SimpleData>
+		<SimpleData name="WARD">Larkhall</SimpleData>
+		<SimpleData name="EASTING">530495.48057315</SimpleData>
+		<SimpleData name="NORTHING">176086.0202521</SimpleData>
+		<SimpleData name="OBJECTID_1">19</SimpleData>
+		<SimpleData name="OBJECTID">19</SimpleData>
+		<SimpleData name="DISTRICT_C">VGD</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.122664429334695,51.468703177111564</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Springfield Community &amp; Medical Centre</SimpleData>
+		<SimpleData name="ADDRESS">110 Union Road</SimpleData>
+		<SimpleData name="POSTCODE">SW8 2SH</SimpleData>
+		<SimpleData name="WARD">Larkhall</SimpleData>
+		<SimpleData name="EASTING">529771.36800372</SimpleData>
+		<SimpleData name="NORTHING">176272.17999349</SimpleData>
+		<SimpleData name="OBJECTID_1">20</SimpleData>
+		<SimpleData name="OBJECTID">20</SimpleData>
+		<SimpleData name="DISTRICT_C">VGC</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.133015125991002,51.470542511110907</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Larkhall Primary School</SimpleData>
+		<SimpleData name="ADDRESS">Smedley Street</SimpleData>
+		<SimpleData name="POSTCODE">SW4 6PH</SimpleData>
+		<SimpleData name="WARD">Larkhall</SimpleData>
+		<SimpleData name="EASTING">529970.77273539</SimpleData>
+		<SimpleData name="NORTHING">176202.45517843</SimpleData>
+		<SimpleData name="OBJECTID_1">21</SimpleData>
+		<SimpleData name="OBJECTID">21</SimpleData>
+		<SimpleData name="DISTRICT_C">VGB</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.130171469073142,51.469870189943883</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Fenwick Hall</SimpleData>
+		<SimpleData name="ADDRESS">128 Willington Street</SimpleData>
+		<SimpleData name="POSTCODE">SW9 9NE</SimpleData>
+		<SimpleData name="WARD">Larkhall</SimpleData>
+		<SimpleData name="EASTING">530259.98313354</SimpleData>
+		<SimpleData name="NORTHING">175518.35455516</SimpleData>
+		<SimpleData name="OBJECTID_1">22</SimpleData>
+		<SimpleData name="OBJECTID">22</SimpleData>
+		<SimpleData name="DISTRICT_C">VGA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.126261896755693,51.463655941151167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Brixton Seventh Day Adventist Church Hall</SimpleData>
+		<SimpleData name="ADDRESS">Ducie Street</SimpleData>
+		<SimpleData name="POSTCODE">SW4 7QG</SimpleData>
+		<SimpleData name="WARD">Ferndale</SimpleData>
+		<SimpleData name="EASTING">530504.35356273</SimpleData>
+		<SimpleData name="NORTHING">175288.86181786</SimpleData>
+		<SimpleData name="OBJECTID_1">23</SimpleData>
+		<SimpleData name="OBJECTID">23</SimpleData>
+		<SimpleData name="DISTRICT_C">VFC</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.122830773622879,51.461537318338941</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Stockwell Primary School</SimpleData>
+		<SimpleData name="ADDRESS">Stockwell Road</SimpleData>
+		<SimpleData name="POSTCODE">SW9 9TG</SimpleData>
+		<SimpleData name="WARD">Ferndale</SimpleData>
+		<SimpleData name="EASTING">530817.15175403</SimpleData>
+		<SimpleData name="NORTHING">175855.31199914</SimpleData>
+		<SimpleData name="OBJECTID_1">24</SimpleData>
+		<SimpleData name="OBJECTID">24</SimpleData>
+		<SimpleData name="DISTRICT_C">VFB</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.118121360742252,51.46655567860487</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Holy Rosary Church Hall</SimpleData>
+		<SimpleData name="ADDRESS">364 Brixton Road</SimpleData>
+		<SimpleData name="POSTCODE">SW9 OTH</SimpleData>
+		<SimpleData name="WARD">Ferndale</SimpleData>
+		<SimpleData name="EASTING">531136.99814802</SimpleData>
+		<SimpleData name="NORTHING">175880.41538008</SimpleData>
+		<SimpleData name="OBJECTID_1">25</SimpleData>
+		<SimpleData name="OBJECTID">25</SimpleData>
+		<SimpleData name="DISTRICT_C">VFA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.113510165436877,51.466707317715979</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Christchurch (Brixton) CE School</SimpleData>
+		<SimpleData name="ADDRESS">Cancell Road</SimpleData>
+		<SimpleData name="POSTCODE">SW9 6HN</SimpleData>
+		<SimpleData name="WARD">Vassall</SimpleData>
+		<SimpleData name="EASTING">531480.70232556</SimpleData>
+		<SimpleData name="NORTHING">176949.09229659</SimpleData>
+		<SimpleData name="OBJECTID_1">26</SimpleData>
+		<SimpleData name="OBJECTID">26</SimpleData>
+		<SimpleData name="DISTRICT_C">VEC</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.108167756548801,51.476231419351215</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Durand Academy</SimpleData>
+		<SimpleData name="ADDRESS">Hackford Road</SimpleData>
+		<SimpleData name="POSTCODE">SW9 0RD</SimpleData>
+		<SimpleData name="WARD">Vassall</SimpleData>
+		<SimpleData name="EASTING">530953.30385031</SimpleData>
+		<SimpleData name="NORTHING">176751.62434335</SimpleData>
+		<SimpleData name="OBJECTID_1">27</SimpleData>
+		<SimpleData name="OBJECTID">27</SimpleData>
+		<SimpleData name="DISTRICT_C">VEB</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.115830600091222,51.474579059337891</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Reay Primary School</SimpleData>
+		<SimpleData name="ADDRESS">Hackford Road</SimpleData>
+		<SimpleData name="POSTCODE">SW9 0EN</SimpleData>
+		<SimpleData name="WARD">Vassall</SimpleData>
+		<SimpleData name="EASTING">530996.79721997</SimpleData>
+		<SimpleData name="NORTHING">177078.11036881</SimpleData>
+		<SimpleData name="OBJECTID_1">28</SimpleData>
+		<SimpleData name="OBJECTID">28</SimpleData>
+		<SimpleData name="DISTRICT_C">VEA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.115083768475116,51.477503010338559</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">St Michael's Church Hall</SimpleData>
+		<SimpleData name="ADDRESS">Stockwell Park Crescent</SimpleData>
+		<SimpleData name="POSTCODE">SW9 0DA</SimpleData>
+		<SimpleData name="WARD">Stockwell</SimpleData>
+		<SimpleData name="EASTING">530843.41430561</SimpleData>
+		<SimpleData name="NORTHING">176431.29356849</SimpleData>
+		<SimpleData name="OBJECTID_1">29</SimpleData>
+		<SimpleData name="OBJECTID">29</SimpleData>
+		<SimpleData name="DISTRICT_C">VDE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.117530460444269,51.47172576107495</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Allen Edwards Primary School</SimpleData>
+		<SimpleData name="ADDRESS">Studley Road</SimpleData>
+		<SimpleData name="POSTCODE">SW4 6RP</SimpleData>
+		<SimpleData name="WARD">Stockwell</SimpleData>
+		<SimpleData name="EASTING">530153.14716274</SimpleData>
+		<SimpleData name="NORTHING">176532.75152395</SimpleData>
+		<SimpleData name="OBJECTID_1">30</SimpleData>
+		<SimpleData name="OBJECTID">30</SimpleData>
+		<SimpleData name="DISTRICT_C">VDD</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.127425749387444,51.472796585149105</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Community Hall</SimpleData>
+		<SimpleData name="ADDRESS">Rear of 283-291 Wandsworth Road</SimpleData>
+		<SimpleData name="POSTCODE">SW8 2ND</SimpleData>
+		<SimpleData name="WARD">Stockwell</SimpleData>
+		<SimpleData name="EASTING">530020.81050879</SimpleData>
+		<SimpleData name="NORTHING">177071.16046722</SimpleData>
+		<SimpleData name="OBJECTID_1">32</SimpleData>
+		<SimpleData name="OBJECTID">32</SimpleData>
+		<SimpleData name="DISTRICT_C">VDB</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.129132102252537,51.477665506477841</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Ashmole Primary School</SimpleData>
+		<SimpleData name="ADDRESS">Ashmole Street</SimpleData>
+		<SimpleData name="POSTCODE">SW8 1NT</SimpleData>
+		<SimpleData name="WARD">Oval</SimpleData>
+		<SimpleData name="EASTING">530992.34484613</SimpleData>
+		<SimpleData name="NORTHING">177579.10030766</SimpleData>
+		<SimpleData name="OBJECTID_1">33</SimpleData>
+		<SimpleData name="OBJECTID">33</SimpleData>
+		<SimpleData name="DISTRICT_C">VCE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.114962217451639,51.482006249108814</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Ashmole Primary School</SimpleData>
+		<SimpleData name="ADDRESS">Ashmole Street</SimpleData>
+		<SimpleData name="POSTCODE">SW8 1NT</SimpleData>
+		<SimpleData name="WARD">Oval</SimpleData>
+		<SimpleData name="EASTING">530993.8593629</SimpleData>
+		<SimpleData name="NORTHING">177581.34391031</SimpleData>
+		<SimpleData name="OBJECTID_1">34</SimpleData>
+		<SimpleData name="OBJECTID">34</SimpleData>
+		<SimpleData name="DISTRICT_C">VCD</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.114939586874657,51.482026061045708</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Wyvil Primary School</SimpleData>
+		<SimpleData name="ADDRESS">Wyvil Road</SimpleData>
+		<SimpleData name="POSTCODE">SW8 2TJ</SimpleData>
+		<SimpleData name="WARD">Oval</SimpleData>
+		<SimpleData name="EASTING">530245.54674886</SimpleData>
+		<SimpleData name="NORTHING">177488.34422649</SimpleData>
+		<SimpleData name="OBJECTID_1">35</SimpleData>
+		<SimpleData name="OBJECTID">35</SimpleData>
+		<SimpleData name="DISTRICT_C">VCC</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.12574413977067,51.481362953792164</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">St Anne's Settlement Hall</SimpleData>
+		<SimpleData name="ADDRESS">Entrance in Vauxhall Grove</SimpleData>
+		<SimpleData name="POSTCODE">SE11 5AY</SimpleData>
+		<SimpleData name="WARD">Oval</SimpleData>
+		<SimpleData name="EASTING">530596.4316563</SimpleData>
+		<SimpleData name="NORTHING">177932.47962292</SimpleData>
+		<SimpleData name="OBJECTID_1">36</SimpleData>
+		<SimpleData name="OBJECTID">36</SimpleData>
+		<SimpleData name="DISTRICT_C">VCB</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.120529917412707,51.485273411879128</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Henry Fawcett Primary School</SimpleData>
+		<SimpleData name="ADDRESS">Bowling Green Street</SimpleData>
+		<SimpleData name="POSTCODE">SE11 5BZ</SimpleData>
+		<SimpleData name="WARD">Oval</SimpleData>
+		<SimpleData name="EASTING">531179.30985559</SimpleData>
+		<SimpleData name="NORTHING">177883.45051844</SimpleData>
+		<SimpleData name="OBJECTID_1">37</SimpleData>
+		<SimpleData name="OBJECTID">37</SimpleData>
+		<SimpleData name="DISTRICT_C">VCA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.112158338877276,51.484698033791851</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Durning Library</SimpleData>
+		<SimpleData name="ADDRESS">167 Kennington Lane</SimpleData>
+		<SimpleData name="POSTCODE">SE11 4HF</SimpleData>
+		<SimpleData name="WARD">Princes</SimpleData>
+		<SimpleData name="EASTING">531295.64135855</SimpleData>
+		<SimpleData name="NORTHING">178359.76208542</SimpleData>
+		<SimpleData name="OBJECTID_1">38</SimpleData>
+		<SimpleData name="OBJECTID">38</SimpleData>
+		<SimpleData name="DISTRICT_C">VBE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.110306957921165,51.488951481664373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Archbishop Sumner CE Primary School</SimpleData>
+		<SimpleData name="ADDRESS">Reedworth Street</SimpleData>
+		<SimpleData name="POSTCODE">SE11 4PH</SimpleData>
+		<SimpleData name="WARD">Princes</SimpleData>
+		<SimpleData name="EASTING">531307.40610472</SimpleData>
+		<SimpleData name="NORTHING">178655.86394467</SimpleData>
+		<SimpleData name="OBJECTID_1">39</SimpleData>
+		<SimpleData name="OBJECTID">39</SimpleData>
+		<SimpleData name="DISTRICT_C">VBD</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.110027564676412,51.491609696099601</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Vauxhall Primary School</SimpleData>
+		<SimpleData name="ADDRESS">Vauxhall Street</SimpleData>
+		<SimpleData name="POSTCODE">SE11 5LG</SimpleData>
+		<SimpleData name="WARD">Princes</SimpleData>
+		<SimpleData name="EASTING">530773.24981316</SimpleData>
+		<SimpleData name="NORTHING">178336.47632018</SimpleData>
+		<SimpleData name="OBJECTID_1">40</SimpleData>
+		<SimpleData name="OBJECTID">40</SimpleData>
+		<SimpleData name="DISTRICT_C">VBC</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.117835342061532,51.48886315995582</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Vauxhall Primary School</SimpleData>
+		<SimpleData name="ADDRESS">Vauxhall Street</SimpleData>
+		<SimpleData name="POSTCODE">SE11 5LG</SimpleData>
+		<SimpleData name="WARD">Princes</SimpleData>
+		<SimpleData name="EASTING">530778.51932943</SimpleData>
+		<SimpleData name="NORTHING">178335.34783662</SimpleData>
+		<SimpleData name="OBJECTID_1">41</SimpleData>
+		<SimpleData name="OBJECTID">41</SimpleData>
+		<SimpleData name="DISTRICT_C">VBB</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.117759905976717,51.488851801020097</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Henry Cavendish Primary School (Balham)</SimpleData>
+		<SimpleData name="ADDRESS">Hydethorpe Road</SimpleData>
+		<SimpleData name="POSTCODE">SW12 0JA</SimpleData>
+		<SimpleData name="WARD">Thornton</SimpleData>
+		<SimpleData name="EASTING">529091.15574534</SimpleData>
+		<SimpleData name="NORTHING">173337.23559255</SimpleData>
+		<SimpleData name="OBJECTID_1">42</SimpleData>
+		<SimpleData name="OBJECTID">42</SimpleData>
+		<SimpleData name="DISTRICT_C">SSE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.143873188683115,51.444322184402047</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Sports Hall, Bonneville Centre</SimpleData>
+		<SimpleData name="ADDRESS">12 Poynders Road</SimpleData>
+		<SimpleData name="POSTCODE">SW4 8NY</SimpleData>
+		<SimpleData name="WARD">Thornton</SimpleData>
+		<SimpleData name="EASTING">529283.62882934</SimpleData>
+		<SimpleData name="NORTHING">174011.83551483</SimpleData>
+		<SimpleData name="OBJECTID_1">43</SimpleData>
+		<SimpleData name="OBJECTID">43</SimpleData>
+		<SimpleData name="DISTRICT_C">SSD</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.140858992929671,51.450340823554811</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">New Park Baptist Church</SimpleData>
+		<SimpleData name="ADDRESS">New Park Road</SimpleData>
+		<SimpleData name="POSTCODE">SW2 4LH</SimpleData>
+		<SimpleData name="WARD">Thornton</SimpleData>
+		<SimpleData name="EASTING">530061.27796483</SimpleData>
+		<SimpleData name="NORTHING">173579.92256305</SimpleData>
+		<SimpleData name="OBJECTID_1">44</SimpleData>
+		<SimpleData name="OBJECTID">44</SimpleData>
+		<SimpleData name="DISTRICT_C">SSB</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.129832774531524,51.446281414474825</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Glenbrook Primary School</SimpleData>
+		<SimpleData name="ADDRESS">Clarence Avenue</SimpleData>
+		<SimpleData name="POSTCODE">SW4 8LD</SimpleData>
+		<SimpleData name="WARD">Thornton</SimpleData>
+		<SimpleData name="EASTING">529866.98931403</SimpleData>
+		<SimpleData name="NORTHING">174334.13440712</SimpleData>
+		<SimpleData name="OBJECTID_1">45</SimpleData>
+		<SimpleData name="OBJECTID">45</SimpleData>
+		<SimpleData name="DISTRICT_C">SSA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.132350386282857,51.453103880680594</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Bonneville Primary School</SimpleData>
+		<SimpleData name="ADDRESS">Bonneville Gardens</SimpleData>
+		<SimpleData name="POSTCODE">SW4 9LB</SimpleData>
+		<SimpleData name="WARD">Clapham Common</SimpleData>
+		<SimpleData name="EASTING">529382.9772926</SimpleData>
+		<SimpleData name="NORTHING">174288.47631784</SimpleData>
+		<SimpleData name="OBJECTID_1">46</SimpleData>
+		<SimpleData name="OBJECTID">46</SimpleData>
+		<SimpleData name="DISTRICT_C">SRD</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.139328993900202,51.452804267265208</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Bonneville Primary School</SimpleData>
+		<SimpleData name="ADDRESS">Bonneville Gardens</SimpleData>
+		<SimpleData name="POSTCODE">SW4 9LB</SimpleData>
+		<SimpleData name="WARD">Clapham Common</SimpleData>
+		<SimpleData name="EASTING">529378.02316872</SimpleData>
+		<SimpleData name="NORTHING">174291.94358522</SimpleData>
+		<SimpleData name="OBJECTID_1">47</SimpleData>
+		<SimpleData name="OBJECTID">47</SimpleData>
+		<SimpleData name="DISTRICT_C">SRC</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.139398985302108,51.45283655815161</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">St Mary's RC Primary School</SimpleData>
+		<SimpleData name="ADDRESS">Crescent Lane</SimpleData>
+		<SimpleData name="POSTCODE">SW4 9QJ</SimpleData>
+		<SimpleData name="WARD">Clapham Common</SimpleData>
+		<SimpleData name="EASTING">529462.34856064</SimpleData>
+		<SimpleData name="NORTHING">175015.36064296</SimpleData>
+		<SimpleData name="OBJECTID_1">48</SimpleData>
+		<SimpleData name="OBJECTID">48</SimpleData>
+		<SimpleData name="DISTRICT_C">SRB</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.137921527283627,51.459318491108881</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Kings Avenue Primary School</SimpleData>
+		<SimpleData name="ADDRESS">Kings Avenue</SimpleData>
+		<SimpleData name="POSTCODE">SW4 8BQ</SimpleData>
+		<SimpleData name="WARD">Clapham Common</SimpleData>
+		<SimpleData name="EASTING">530038.62605774</SimpleData>
+		<SimpleData name="NORTHING">174780.7847936</SimpleData>
+		<SimpleData name="OBJECTID_1">49</SimpleData>
+		<SimpleData name="OBJECTID">49</SimpleData>
+		<SimpleData name="DISTRICT_C">SRA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.129717556571544,51.457078454419708</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Holmewood Nursery School</SimpleData>
+		<SimpleData name="ADDRESS">66 Upper Tulse Hill</SimpleData>
+		<SimpleData name="POSTCODE">SW2 2RW</SimpleData>
+		<SimpleData name="WARD">Brixton Hill</SimpleData>
+		<SimpleData name="EASTING">530703.2563581</SimpleData>
+		<SimpleData name="NORTHING">173733.71712199</SimpleData>
+		<SimpleData name="OBJECTID_1">50</SimpleData>
+		<SimpleData name="OBJECTID">50</SimpleData>
+		<SimpleData name="DISTRICT_C">SQD</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.120543403602802,51.447515860911878</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Richard Atkins Primary School</SimpleData>
+		<SimpleData name="ADDRESS">New Park Road</SimpleData>
+		<SimpleData name="POSTCODE">SW2 4JP</SimpleData>
+		<SimpleData name="WARD">Brixton Hill</SimpleData>
+		<SimpleData name="EASTING">530261.16176883</SimpleData>
+		<SimpleData name="NORTHING">173789.75144862</SimpleData>
+		<SimpleData name="OBJECTID_1">51</SimpleData>
+		<SimpleData name="OBJECTID">51</SimpleData>
+		<SimpleData name="DISTRICT_C">SQC</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.126880968135827,51.448121194020828</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Clapham Youth Centre</SimpleData>
+		<SimpleData name="ADDRESS">61 Lyham Road</SimpleData>
+		<SimpleData name="POSTCODE">SW2 5DH</SimpleData>
+		<SimpleData name="WARD">Brixton Hill</SimpleData>
+		<SimpleData name="EASTING">530176.64284808</SimpleData>
+		<SimpleData name="NORTHING">174692.92764021</SimpleData>
+		<SimpleData name="OBJECTID_1">52</SimpleData>
+		<SimpleData name="OBJECTID">52</SimpleData>
+		<SimpleData name="DISTRICT_C">SQB</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.127764499854824,51.456257215667591</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Sudbourne Primary School</SimpleData>
+		<SimpleData name="ADDRESS">Hayter Road</SimpleData>
+		<SimpleData name="POSTCODE">SW2 5AP</SimpleData>
+		<SimpleData name="WARD">Brixton Hill</SimpleData>
+		<SimpleData name="EASTING">530743.74118331</SimpleData>
+		<SimpleData name="NORTHING">174945.86484011</SimpleData>
+		<SimpleData name="OBJECTID_1">53</SimpleData>
+		<SimpleData name="OBJECTID">53</SimpleData>
+		<SimpleData name="DISTRICT_C">SQA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.119513575803728,51.458399721433231</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">St Martins Community Centre</SimpleData>
+		<SimpleData name="ADDRESS">Abbotts Park</SimpleData>
+		<SimpleData name="POSTCODE">SW2 3PW</SimpleData>
+		<SimpleData name="WARD">Tulse Hill</SimpleData>
+		<SimpleData name="EASTING">531224.45841829</SimpleData>
+		<SimpleData name="NORTHING">173216.99560814</SimpleData>
+		<SimpleData name="OBJECTID_1">54</SimpleData>
+		<SimpleData name="OBJECTID">54</SimpleData>
+		<SimpleData name="DISTRICT_C">SOE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.113238974353078,51.44275183525415</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Holy Trinity CE Primary School</SimpleData>
+		<SimpleData name="ADDRESS">Upper Tulse Hill</SimpleData>
+		<SimpleData name="POSTCODE">SW2 2RL</SimpleData>
+		<SimpleData name="WARD">Tulse Hill</SimpleData>
+		<SimpleData name="EASTING">530852.93544914</SimpleData>
+		<SimpleData name="NORTHING">173743.17479588</SimpleData>
+		<SimpleData name="OBJECTID_1">55</SimpleData>
+		<SimpleData name="OBJECTID">55</SimpleData>
+		<SimpleData name="DISTRICT_C">SOD</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.118387245484952,51.447566321007642</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Jubilee Primary School &amp; Children's Centre</SimpleData>
+		<SimpleData name="ADDRESS">Tulse Hill</SimpleData>
+		<SimpleData name="POSTCODE">SW2 2JE</SimpleData>
+		<SimpleData name="WARD">Tulse Hill</SimpleData>
+		<SimpleData name="EASTING">531152.99407892</SimpleData>
+		<SimpleData name="NORTHING">174268.59225488</SimpleData>
+		<SimpleData name="OBJECTID_1">56</SimpleData>
+		<SimpleData name="OBJECTID">56</SimpleData>
+		<SimpleData name="DISTRICT_C">SOC</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.113877263808455,51.452218725184842</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Releigh Park Centre</SimpleData>
+		<SimpleData name="ADDRESS">Arodene Road</SimpleData>
+		<SimpleData name="POSTCODE">SW2 2BH</SimpleData>
+		<SimpleData name="WARD">Tulse Hill</SimpleData>
+		<SimpleData name="EASTING">530795.72150933</SimpleData>
+		<SimpleData name="NORTHING">174440.31398177</SimpleData>
+		<SimpleData name="OBJECTID_1">57</SimpleData>
+		<SimpleData name="OBJECTID">57</SimpleData>
+		<SimpleData name="DISTRICT_C">SOB</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.11895260469899,51.45384450067089</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">St Matthew's Estate Tenants Hall</SimpleData>
+		<SimpleData name="ADDRESS">10 St Matthew's Road</SimpleData>
+		<SimpleData name="POSTCODE">SW2 1NH</SimpleData>
+		<SimpleData name="WARD">Tulse Hill</SimpleData>
+		<SimpleData name="EASTING">530960.0120737</SimpleData>
+		<SimpleData name="NORTHING">174861.85279168</SimpleData>
+		<SimpleData name="OBJECTID_1">58</SimpleData>
+		<SimpleData name="OBJECTID">58</SimpleData>
+		<SimpleData name="DISTRICT_C">SOA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.116433540522805,51.457594788956968</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Kingswood Primary School</SimpleData>
+		<SimpleData name="ADDRESS">Gipsy Road / Salters Hill</SimpleData>
+		<SimpleData name="POSTCODE">SE27 9RD</SimpleData>
+		<SimpleData name="WARD">Gipsy Hill</SimpleData>
+		<SimpleData name="EASTING">532872.99865665</SimpleData>
+		<SimpleData name="NORTHING">171497.18744634</SimpleData>
+		<SimpleData name="OBJECTID_1">60</SimpleData>
+		<SimpleData name="OBJECTID">60</SimpleData>
+		<SimpleData name="DISTRICT_C">NNB</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.090177384069767,51.426912693517792</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Elm Wood Primary School</SimpleData>
+		<SimpleData name="ADDRESS">Carnac Street</SimpleData>
+		<SimpleData name="POSTCODE">SE27 9RR</SimpleData>
+		<SimpleData name="WARD">Gipsy Hill</SimpleData>
+		<SimpleData name="EASTING">532728.8123199</SimpleData>
+		<SimpleData name="NORTHING">172072.07541016</SimpleData>
+		<SimpleData name="OBJECTID_1">61</SimpleData>
+		<SimpleData name="OBJECTID">61</SimpleData>
+		<SimpleData name="DISTRICT_C">NNA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.092034880084007,51.432112729137373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Granton Primary School</SimpleData>
+		<SimpleData name="ADDRESS">Granton Road</SimpleData>
+		<SimpleData name="POSTCODE">SW16 5AN</SimpleData>
+		<SimpleData name="WARD">Streatham South</SimpleData>
+		<SimpleData name="EASTING">529291.29757226</SimpleData>
+		<SimpleData name="NORTHING">170023.72826198</SimpleData>
+		<SimpleData name="OBJECTID_1">62</SimpleData>
+		<SimpleData name="OBJECTID">62</SimpleData>
+		<SimpleData name="DISTRICT_C">SWD</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.142203194166898,51.414498615620872</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Woodmansterne Primary School</SimpleData>
+		<SimpleData name="ADDRESS">Stockport Road</SimpleData>
+		<SimpleData name="POSTCODE">SW16 5XE</SimpleData>
+		<SimpleData name="WARD">Streatham South</SimpleData>
+		<SimpleData name="EASTING">529798.56974755</SimpleData>
+		<SimpleData name="NORTHING">169840.37799483</SimpleData>
+		<SimpleData name="OBJECTID_1">63</SimpleData>
+		<SimpleData name="OBJECTID">63</SimpleData>
+		<SimpleData name="DISTRICT_C">SWC</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.134979915095983,51.412735082335189</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">St Bartholomew's RC Church Hall</SimpleData>
+		<SimpleData name="ADDRESS">159 Ellison Road</SimpleData>
+		<SimpleData name="POSTCODE">SW16 5DE</SimpleData>
+		<SimpleData name="WARD">Streatham South</SimpleData>
+		<SimpleData name="EASTING">530292.15823307</SimpleData>
+		<SimpleData name="NORTHING">169980.38744296</SimpleData>
+		<SimpleData name="OBJECTID_1">64</SimpleData>
+		<SimpleData name="OBJECTID">64</SimpleData>
+		<SimpleData name="DISTRICT_C">SWB</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.127835132615571,51.413880217852736</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Immanuel &amp; St Andrews Church Hall</SimpleData>
+		<SimpleData name="ADDRESS">452 Streatham High Road</SimpleData>
+		<SimpleData name="POSTCODE">SW16 3PY</SimpleData>
+		<SimpleData name="WARD">Streatham South</SimpleData>
+		<SimpleData name="EASTING">530206.39515849</SimpleData>
+		<SimpleData name="NORTHING">170717.77601572</SimpleData>
+		<SimpleData name="OBJECTID_1">65</SimpleData>
+		<SimpleData name="OBJECTID">65</SimpleData>
+		<SimpleData name="DISTRICT_C">SWA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.128797066460631,51.420526660335163</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Streatham Baptist Church Hall</SimpleData>
+		<SimpleData name="ADDRESS">Natel Road</SimpleData>
+		<SimpleData name="POSTCODE">SW16 6JR</SimpleData>
+		<SimpleData name="WARD">St Leonards</SimpleData>
+		<SimpleData name="EASTING">529918.93993086</SimpleData>
+		<SimpleData name="NORTHING">170980.57946072</SimpleData>
+		<SimpleData name="OBJECTID_1">66</SimpleData>
+		<SimpleData name="OBJECTID">66</SimpleData>
+		<SimpleData name="DISTRICT_C">SVD</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.132832554153303,51.422954318961949</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">St Leonard's CE Primary School</SimpleData>
+		<SimpleData name="ADDRESS">42 Mitcham Lane</SimpleData>
+		<SimpleData name="POSTCODE">SW16 6NP</SimpleData>
+		<SimpleData name="WARD">St Leonards</SimpleData>
+		<SimpleData name="EASTING">529733.6031061</SimpleData>
+		<SimpleData name="NORTHING">171444.74332168</SimpleData>
+		<SimpleData name="OBJECTID_1">67</SimpleData>
+		<SimpleData name="OBJECTID">67</SimpleData>
+		<SimpleData name="DISTRICT_C">SVC</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.135326846975063,51.427168084765292</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">St Leonard's Church Hall</SimpleData>
+		<SimpleData name="ADDRESS">8 Tooting Bec Gardens</SimpleData>
+		<SimpleData name="POSTCODE">SW16 1RB</SimpleData>
+		<SimpleData name="WARD">St Leonards</SimpleData>
+		<SimpleData name="EASTING">529936.32437059</SimpleData>
+		<SimpleData name="NORTHING">171762.59188904</SimpleData>
+		<SimpleData name="OBJECTID_1">68</SimpleData>
+		<SimpleData name="OBJECTID">68</SimpleData>
+		<SimpleData name="DISTRICT_C">SVB</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.132296131689391,51.429978124620234</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Henry Cavendish Primary School (Streatham)</SimpleData>
+		<SimpleData name="ADDRESS">Dingley Lane, off Woodfield Avenue</SimpleData>
+		<SimpleData name="POSTCODE">SW16 1AU</SimpleData>
+		<SimpleData name="WARD">St Leonards</SimpleData>
+		<SimpleData name="EASTING">529933.93436403</SimpleData>
+		<SimpleData name="NORTHING">172563.55137667</SimpleData>
+		<SimpleData name="OBJECTID_1">69</SimpleData>
+		<SimpleData name="OBJECTID">69</SimpleData>
+		<SimpleData name="DISTRICT_C">SVA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.132036901442386,51.437176723006367</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">St Andrew's RC Primary School</SimpleData>
+		<SimpleData name="ADDRESS">Polworth Road</SimpleData>
+		<SimpleData name="POSTCODE">SW16 2ET</SimpleData>
+		<SimpleData name="WARD">Streatham Wells</SimpleData>
+		<SimpleData name="EASTING">530282.41692489</SimpleData>
+		<SimpleData name="NORTHING">171149.0008598</SimpleData>
+		<SimpleData name="OBJECTID_1">70</SimpleData>
+		<SimpleData name="OBJECTID">70</SimpleData>
+		<SimpleData name="DISTRICT_C">SUD</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.127545983303117,51.424384532109187</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Sunnyhill Primary School &amp; Children's Centre</SimpleData>
+		<SimpleData name="ADDRESS">Sunnyhill Road / Valley Road</SimpleData>
+		<SimpleData name="POSTCODE">SW16 2UW</SimpleData>
+		<SimpleData name="WARD">Streatham Wells</SimpleData>
+		<SimpleData name="EASTING">530783.29626918</SimpleData>
+		<SimpleData name="NORTHING">171682.74345788</SimpleData>
+		<SimpleData name="OBJECTID_1">71</SimpleData>
+		<SimpleData name="OBJECTID">71</SimpleData>
+		<SimpleData name="DISTRICT_C">SUC</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.120149181941943,51.429065886078568</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Tate Public Library</SimpleData>
+		<SimpleData name="ADDRESS">63 Streatham High Road</SimpleData>
+		<SimpleData name="POSTCODE">SW16 1PL</SimpleData>
+		<SimpleData name="WARD">Streatham Wells</SimpleData>
+		<SimpleData name="EASTING">530154.55513621</SimpleData>
+		<SimpleData name="NORTHING">171953.8187703</SimpleData>
+		<SimpleData name="OBJECTID_1">72</SimpleData>
+		<SimpleData name="OBJECTID">72</SimpleData>
+		<SimpleData name="DISTRICT_C">SUB</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.129088546320675,51.431646601657185</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Hitherfield Children's Centre</SimpleData>
+		<SimpleData name="ADDRESS">Hitherfield Road</SimpleData>
+		<SimpleData name="POSTCODE">SW16 2JQ</SimpleData>
+		<SimpleData name="WARD">Streatham Wells</SimpleData>
+		<SimpleData name="EASTING">531128.45084195</SimpleData>
+		<SimpleData name="NORTHING">172489.17516414</SimpleData>
+		<SimpleData name="OBJECTID_1">73</SimpleData>
+		<SimpleData name="OBJECTID">73</SimpleData>
+		<SimpleData name="DISTRICT_C">SUA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.114888923085846,51.436233355920344</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Tulse Hill Methodist Church Hall</SimpleData>
+		<SimpleData name="ADDRESS">138 Christchurch Road</SimpleData>
+		<SimpleData name="POSTCODE">SW2 3DQ</SimpleData>
+		<SimpleData name="WARD">Streatham Hill</SimpleData>
+		<SimpleData name="EASTING">531647.2553053</SimpleData>
+		<SimpleData name="NORTHING">172928.83266849</SimpleData>
+		<SimpleData name="OBJECTID_1">74</SimpleData>
+		<SimpleData name="OBJECTID">74</SimpleData>
+		<SimpleData name="DISTRICT_C">STE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.10726610024441,51.440064197540927</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">St Margaret's Church Hall</SimpleData>
+		<SimpleData name="ADDRESS">Cricklade Avenue</SimpleData>
+		<SimpleData name="POSTCODE">SW2 3BH</SimpleData>
+		<SimpleData name="WARD">Streatham Hill</SimpleData>
+		<SimpleData name="EASTING">530783.85538869</SimpleData>
+		<SimpleData name="NORTHING">172752.2100428</SimpleData>
+		<SimpleData name="OBJECTID_1">75</SimpleData>
+		<SimpleData name="OBJECTID">75</SimpleData>
+		<SimpleData name="DISTRICT_C">STD</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.119746561124401,51.438676755012139</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Streatham Wells Primary School</SimpleData>
+		<SimpleData name="ADDRESS">50 Palace Road</SimpleData>
+		<SimpleData name="POSTCODE">SW2 3NJ</SimpleData>
+		<SimpleData name="WARD">Streatham Hill</SimpleData>
+		<SimpleData name="EASTING">531041.00225977</SimpleData>
+		<SimpleData name="NORTHING">172900.55282564</SimpleData>
+		<SimpleData name="OBJECTID_1">76</SimpleData>
+		<SimpleData name="OBJECTID">76</SimpleData>
+		<SimpleData name="DISTRICT_C">STC</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.115994169423833,51.439950496045725</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Telford Park Lawn Tennis Club</SimpleData>
+		<SimpleData name="ADDRESS">35A Killieser Avenue</SimpleData>
+		<SimpleData name="POSTCODE">SW2 4NX</SimpleData>
+		<SimpleData name="WARD">Streatham Hill</SimpleData>
+		<SimpleData name="EASTING">530099.67592897</SimpleData>
+		<SimpleData name="NORTHING">172885.267587</SimpleData>
+		<SimpleData name="OBJECTID_1">77</SimpleData>
+		<SimpleData name="OBJECTID">77</SimpleData>
+		<SimpleData name="DISTRICT_C">STB</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.129535642355413,51.44002990809112</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Knight's Youth Centre</SimpleData>
+		<SimpleData name="ADDRESS">27 Streatham Place</SimpleData>
+		<SimpleData name="POSTCODE">SW2 4QQ</SimpleData>
+		<SimpleData name="WARD">Streatham Hill</SimpleData>
+		<SimpleData name="EASTING">530192.92134226</SimpleData>
+		<SimpleData name="NORTHING">173582.10162505</SimpleData>
+		<SimpleData name="OBJECTID_1">78</SimpleData>
+		<SimpleData name="OBJECTID">78</SimpleData>
+		<SimpleData name="DISTRICT_C">STA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.127938737436625,51.44627077697286</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">St Luke's CE Primary School</SimpleData>
+		<SimpleData name="ADDRESS">Linton Grove</SimpleData>
+		<SimpleData name="POSTCODE">SE27 0DZ</SimpleData>
+		<SimpleData name="WARD">Knights Hill</SimpleData>
+		<SimpleData name="EASTING">532199.75962949</SimpleData>
+		<SimpleData name="NORTHING">171476.75250608</SimpleData>
+		<SimpleData name="OBJECTID_1">79</SimpleData>
+		<SimpleData name="OBJECTID">79</SimpleData>
+		<SimpleData name="DISTRICT_C">NME</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.099862968923464,51.426886354498414</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">Crown Lane Primary School</SimpleData>
+		<SimpleData name="ADDRESS">Crown Lane</SimpleData>
+		<SimpleData name="POSTCODE">SW16 3HX</SimpleData>
+		<SimpleData name="WARD">Knights Hill</SimpleData>
+		<SimpleData name="EASTING">531552.72368897</SimpleData>
+		<SimpleData name="NORTHING">171094.4764399</SimpleData>
+		<SimpleData name="OBJECTID_1">80</SimpleData>
+		<SimpleData name="OBJECTID">80</SimpleData>
+		<SimpleData name="DISTRICT_C">NMD</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.109306105579148,51.42360138754907</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">St John`s Angell Town CE Primary School</SimpleData>
+		<SimpleData name="ADDRESS">85 Angell Road</SimpleData>
+		<SimpleData name="POSTCODE">SW9 7HH</SimpleData>
+		<SimpleData name="WARD">Coldharbour</SimpleData>
+		<SimpleData name="EASTING">531472.807</SimpleData>
+		<SimpleData name="NORTHING">176026.114</SimpleData>
+		<SimpleData name="OBJECTID_1">91</SimpleData>
+		<SimpleData name="OBJECTID">91</SimpleData>
+		<SimpleData name="DISTRICT_C">NJA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.108619775824834,51.467935695720648</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="VENUE">The Salvation Army Church Hall</SimpleData>
+		<SimpleData name="ADDRESS">246 Norwood Road</SimpleData>
+		<SimpleData name="POSTCODE">SE27 9AW</SimpleData>
+		<SimpleData name="WARD">Thurlow Park</SimpleData>
+		<SimpleData name="EASTING">531745.42583176</SimpleData>
+		<SimpleData name="NORTHING">172665.81259785</SimpleData>
+		<SimpleData name="OBJECTID_1">11</SimpleData>
+		<SimpleData name="OBJECTID">11</SimpleData>
+		<SimpleData name="DISTRICT_C">NLD</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.105952248958713,51.437677727621654</coordinates></Point>
+  </Placemark>
+</Folder>
+<Schema name="OGRGeoJSON" id="OGRGeoJSON">
+	<SimpleField name="VENUE" type="string"></SimpleField>
+	<SimpleField name="ADDRESS" type="string"></SimpleField>
+	<SimpleField name="POSTCODE" type="string"></SimpleField>
+	<SimpleField name="WARD" type="string"></SimpleField>
+	<SimpleField name="EASTING" type="float"></SimpleField>
+	<SimpleField name="NORTHING" type="float"></SimpleField>
+	<SimpleField name="OBJECTID_1" type="int"></SimpleField>
+	<SimpleField name="OBJECTID" type="int"></SimpleField>
+	<SimpleField name="DISTRICT_C" type="string"></SimpleField>
+</Schema>
+</Document></kml>

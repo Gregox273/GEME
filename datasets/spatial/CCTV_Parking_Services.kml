@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>OGRGeoJSON</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">44</SimpleData>
+		<SimpleData name="LOCATION">Kings Avenue  14</SimpleData>
+		<SimpleData name="EASTING">530080</SimpleData>
+		<SimpleData name="NORTHING">174827</SimpleData>
+		<SimpleData name="CAMERA_TYPE">ANPR</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_DAYS">Mon-Fri</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_TIME">7am-10am, 4pm-7pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.12910541229738,51.457484281710805</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">26</SimpleData>
+		<SimpleData name="LOCATION">Binfield Road  1 </SimpleData>
+		<SimpleData name="CAMERA_NO">26</SimpleData>
+		<SimpleData name="EASTING">530436</SimpleData>
+		<SimpleData name="NORTHING">176523</SimpleData>
+		<SimpleData name="CAMERA_TYPE">STATIC</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_DAYS">N/A</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_TIME">N/A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.123359132724388,51.472643875804728</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">3</SimpleData>
+		<SimpleData name="LOCATION">Acre Lane opposite 206</SimpleData>
+		<SimpleData name="CAMERA_NO">3</SimpleData>
+		<SimpleData name="EASTING">530149</SimpleData>
+		<SimpleData name="NORTHING">175075</SimpleData>
+		<SimpleData name="CAMERA_TYPE">STATIC</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_DAYS">Mon-Sat </SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_TIME">7am-7pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.128021655994698,51.459697145403233</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">15</SimpleData>
+		<SimpleData name="LOCATION">Lambeth Road opposite 130-134</SimpleData>
+		<SimpleData name="CAMERA_NO">15</SimpleData>
+		<SimpleData name="EASTING">531122</SimpleData>
+		<SimpleData name="NORTHING">179176</SimpleData>
+		<SimpleData name="CAMERA_TYPE">STATIC</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_DAYS">Mon-Sat </SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_TIME">7am-7pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.112503542666828,51.496326933065269</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">41</SimpleData>
+		<SimpleData name="LOCATION">Westminster Bridge Road 133-135</SimpleData>
+		<SimpleData name="EASTING">531013</SimpleData>
+		<SimpleData name="NORTHING">179528</SimpleData>
+		<SimpleData name="CAMERA_TYPE">ANPR</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_DAYS">Mon-Fri</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_TIME">7am-10am, 4pm-7pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.113942255488865,51.499515461133804</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">21</SimpleData>
+		<SimpleData name="LOCATION">Atlantic Road opposite 21-23 Atlantic Road</SimpleData>
+		<SimpleData name="CAMERA_NO">21</SimpleData>
+		<SimpleData name="EASTING">531147</SimpleData>
+		<SimpleData name="NORTHING">175452</SimpleData>
+		<SimpleData name="CAMERA_TYPE">STATIC</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_DAYS">N/A</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_TIME">N/A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.113525046371772,51.462854986918828</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">10</SimpleData>
+		<SimpleData name="LOCATION">Westminster Bridge Road 101</SimpleData>
+		<SimpleData name="CAMERA_NO">10</SimpleData>
+		<SimpleData name="EASTING">531083</SimpleData>
+		<SimpleData name="NORTHING">179482</SimpleData>
+		<SimpleData name="CAMERA_TYPE">STATIC</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_DAYS">Mon-Fri</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_TIME">7am-10am, 4pm-7pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.11295145753219,51.499085864779772</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">18</SimpleData>
+		<SimpleData name="LOCATION">Central Hill opposite next 58</SimpleData>
+		<SimpleData name="CAMERA_NO">18</SimpleData>
+		<SimpleData name="EASTING">533333</SimpleData>
+		<SimpleData name="NORTHING">170701</SimpleData>
+		<SimpleData name="CAMERA_TYPE">STATIC</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_DAYS">N/A</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_TIME">N/A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.083864111765857,51.419649777680839</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">30</SimpleData>
+		<SimpleData name="LOCATION">2 Kennington Road near Hercules Road</SimpleData>
+		<SimpleData name="CAMERA_NO">30</SimpleData>
+		<SimpleData name="EASTING">531126</SimpleData>
+		<SimpleData name="NORTHING">179407</SimpleData>
+		<SimpleData name="CAMERA_TYPE">STATIC</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_DAYS">Mon-Fri</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_TIME">7am-10am, 4pm-7pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.112360189492127,51.498401907254383</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">4</SimpleData>
+		<SimpleData name="LOCATION">Acre Lane 6A</SimpleData>
+		<SimpleData name="CAMERA_NO">4</SimpleData>
+		<SimpleData name="EASTING">530943</SimpleData>
+		<SimpleData name="NORTHING">175253</SimpleData>
+		<SimpleData name="CAMERA_TYPE">STATIC</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_DAYS">Mon-Sat </SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_TIME">7am-7pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.116533556931397,51.461113829475678</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">28</SimpleData>
+		<SimpleData name="LOCATION">Popes Road 24 </SimpleData>
+		<SimpleData name="CAMERA_NO">28</SimpleData>
+		<SimpleData name="EASTING">531211</SimpleData>
+		<SimpleData name="NORTHING">175506</SimpleData>
+		<SimpleData name="CAMERA_TYPE">STATIC</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_DAYS">N/A</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_TIME">N/A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.112584279030878,51.463325446198844</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">23</SimpleData>
+		<SimpleData name="LOCATION">Coldharbour Lane outside 396</SimpleData>
+		<SimpleData name="CAMERA_NO">23</SimpleData>
+		<SimpleData name="EASTING">531199</SimpleData>
+		<SimpleData name="NORTHING">175331</SimpleData>
+		<SimpleData name="CAMERA_TYPE">STATIC</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_DAYS">N/A</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_TIME">N/A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.112821799452533,51.461755563299114</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">46</SimpleData>
+		<SimpleData name="LOCATION">Lambeth Road 111-113</SimpleData>
+		<SimpleData name="EASTING">530713</SimpleData>
+		<SimpleData name="NORTHING">178899</SimpleData>
+		<SimpleData name="CAMERA_TYPE">ANPR</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_DAYS">Mon-Sat </SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_TIME">7am-7pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.11849450914441,51.493932267452003</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">1</SimpleData>
+		<SimpleData name="LOCATION">Wandsworth Road 823-825</SimpleData>
+		<SimpleData name="CAMERA_NO">1</SimpleData>
+		<SimpleData name="EASTING">528640</SimpleData>
+		<SimpleData name="NORTHING">175778</SimpleData>
+		<SimpleData name="CAMERA_TYPE">STATIC</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_DAYS">Mon-Fri</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_TIME">4pm-7pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.149474455204683,51.466359502196838</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">25</SimpleData>
+		<SimpleData name="LOCATION">Atlantic Road outside 56</SimpleData>
+		<SimpleData name="CAMERA_NO">25</SimpleData>
+		<SimpleData name="EASTING">531289</SimpleData>
+		<SimpleData name="NORTHING">175313</SimpleData>
+		<SimpleData name="CAMERA_TYPE">STATIC</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_DAYS">N/A</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_TIME">N/A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.111533711023754,51.461572954831077</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">2</SimpleData>
+		<SimpleData name="LOCATION">Clapham Park Road, 2  Ascot Parade</SimpleData>
+		<SimpleData name="CAMERA_NO">2</SimpleData>
+		<SimpleData name="EASTING">530024</SimpleData>
+		<SimpleData name="NORTHING">175081</SimpleData>
+		<SimpleData name="CAMERA_TYPE">STATIC</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_DAYS">Mon-Sat </SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_TIME">7am-7pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.129817675220365,51.459779765170026</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">24</SimpleData>
+		<SimpleData name="LOCATION">Kings Avenue outside 14</SimpleData>
+		<SimpleData name="CAMERA_NO">24</SimpleData>
+		<SimpleData name="EASTING">530080</SimpleData>
+		<SimpleData name="NORTHING">174827</SimpleData>
+		<SimpleData name="CAMERA_TYPE">STATIC</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_DAYS">Mon-Fri</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_TIME">7am-10am, 4pm-7pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.12910541229738,51.457484281710805</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">31</SimpleData>
+		<SimpleData name="LOCATION">Lambeth Road 129 opposite Lambeth High St </SimpleData>
+		<SimpleData name="CAMERA_NO">31</SimpleData>
+		<SimpleData name="EASTING">530613</SimpleData>
+		<SimpleData name="NORTHING">178971</SimpleData>
+		<SimpleData name="CAMERA_TYPE">STATIC</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_DAYS">Mon-Sat </SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_TIME">7am-7pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.119907534658994,51.494602394122559</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">42</SimpleData>
+		<SimpleData name="LOCATION">Clapham Park Road 94-96</SimpleData>
+		<SimpleData name="EASTING">529751</SimpleData>
+		<SimpleData name="NORTHING">175058</SimpleData>
+		<SimpleData name="CAMERA_TYPE">ANPR</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_DAYS">Mon-Sun</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_TIME">(At Any Time)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.133753441407631,51.459635653563851</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">37</SimpleData>
+		<SimpleData name="LOCATION">Denmark Hill 92-100</SimpleData>
+		<SimpleData name="CAMERA_NO">37</SimpleData>
+		<SimpleData name="EASTING">532545</SimpleData>
+		<SimpleData name="NORTHING">176421</SimpleData>
+		<SimpleData name="CAMERA_TYPE">STATIC</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_DAYS">Mon-Sun</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_TIME">7am-7pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.093049677725803,51.471237584332016</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">5</SimpleData>
+		<SimpleData name="LOCATION">Wandsworth Road outside 560-562</SimpleData>
+		<SimpleData name="CAMERA_NO">5</SimpleData>
+		<SimpleData name="EASTING">528871</SimpleData>
+		<SimpleData name="NORTHING">175904</SimpleData>
+		<SimpleData name="CAMERA_TYPE">STATIC</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_DAYS">Mon-Fri</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_TIME">7am-10am, 4pm-7pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.146104926905595,51.467439333778572</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">36</SimpleData>
+		<SimpleData name="LOCATION">Dulwich Road  opposite 149</SimpleData>
+		<SimpleData name="CAMERA_NO">36</SimpleData>
+		<SimpleData name="EASTING">531953</SimpleData>
+		<SimpleData name="NORTHING">174305</SimpleData>
+		<SimpleData name="CAMERA_TYPE">STATIC</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_DAYS">N/A</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_TIME">N/A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.102357026908463,51.452360207621538</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">8</SimpleData>
+		<SimpleData name="LOCATION">Mitcham Lane No 51-55 </SimpleData>
+		<SimpleData name="CAMERA_NO">8</SimpleData>
+		<SimpleData name="EASTING">529712</SimpleData>
+		<SimpleData name="NORTHING">171404</SimpleData>
+		<SimpleData name="CAMERA_TYPE">STATIC</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_DAYS">Mon-Sat </SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_TIME">7am-7pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.135652308130474,51.426806872713762</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">12</SimpleData>
+		<SimpleData name="LOCATION">Cedars Road 24-26</SimpleData>
+		<SimpleData name="CAMERA_NO">12</SimpleData>
+		<SimpleData name="EASTING">528687</SimpleData>
+		<SimpleData name="NORTHING">175274</SimpleData>
+		<SimpleData name="CAMERA_TYPE">STATIC</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_DAYS">Mon-Fri</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_TIME">7am-7pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.148981505235966,51.461819467954314</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">19</SimpleData>
+		<SimpleData name="LOCATION">Tulse Hill opposite 45 Hardel Walk </SimpleData>
+		<SimpleData name="CAMERA_NO">19</SimpleData>
+		<SimpleData name="EASTING">531298</SimpleData>
+		<SimpleData name="NORTHING">173549</SimpleData>
+		<SimpleData name="CAMERA_TYPE">STATIC</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_DAYS">Mon-Sat </SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_TIME">7am-7pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.112058373190009,51.445718420630129</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">32</SimpleData>
+		<SimpleData name="LOCATION">Norwood Road outside 288-290</SimpleData>
+		<SimpleData name="CAMERA_NO">32</SimpleData>
+		<SimpleData name="EASTING">531844</SimpleData>
+		<SimpleData name="NORTHING">172512</SimpleData>
+		<SimpleData name="CAMERA_TYPE">STATIC</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_DAYS">N/A</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_TIME">N/A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.104592103660794,51.436272558028897</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">17</SimpleData>
+		<SimpleData name="LOCATION">Wandsworth Road 94</SimpleData>
+		<SimpleData name="CAMERA_NO">17</SimpleData>
+		<SimpleData name="EASTING">530057</SimpleData>
+		<SimpleData name="NORTHING">177304</SimpleData>
+		<SimpleData name="CAMERA_TYPE">STATIC</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_DAYS">Mon-Sat </SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_TIME">7am-10am, 4pm-7pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.12852563343484,51.479749653304289</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">7</SimpleData>
+		<SimpleData name="LOCATION">Effra Road opposite 47-49</SimpleData>
+		<SimpleData name="CAMERA_NO">7</SimpleData>
+		<SimpleData name="EASTING">531052</SimpleData>
+		<SimpleData name="NORTHING">174977</SimpleData>
+		<SimpleData name="CAMERA_TYPE">STATIC</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_DAYS">Mon-Sat </SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_TIME">7am-7pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.115067663161702,51.458608309891424</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">45</SimpleData>
+		<SimpleData name="LOCATION">Kennington Road  82</SimpleData>
+		<SimpleData name="EASTING">531224</SimpleData>
+		<SimpleData name="NORTHING">179080</SimpleData>
+		<SimpleData name="CAMERA_TYPE">ANPR</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_DAYS">Mon-Fri</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_TIME">7am-10am, 4pm-7pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.111070697846419,51.495440576181331</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">14</SimpleData>
+		<SimpleData name="LOCATION">Cedars Road opposite 190</SimpleData>
+		<SimpleData name="CAMERA_NO">14</SimpleData>
+		<SimpleData name="EASTING">528606</SimpleData>
+		<SimpleData name="NORTHING">175561</SimpleData>
+		<SimpleData name="CAMERA_TYPE">STATIC</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_DAYS">Mon-Fri</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_TIME">7am-7pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.150042520726707,51.464417080965838</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">16</SimpleData>
+		<SimpleData name="LOCATION">Westminster Bridge Road opposite 139</SimpleData>
+		<SimpleData name="CAMERA_NO">16</SimpleData>
+		<SimpleData name="EASTING">531004</SimpleData>
+		<SimpleData name="NORTHING">179553</SimpleData>
+		<SimpleData name="CAMERA_TYPE">STATIC</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_DAYS">Mon-Sat </SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_TIME">7am-7pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.11406256477431,51.499742209842864</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">47</SimpleData>
+		<SimpleData name="LOCATION">Kennington Road  151</SimpleData>
+		<SimpleData name="EASTING">531253</SimpleData>
+		<SimpleData name="NORTHING">178893</SimpleData>
+		<SimpleData name="CAMERA_TYPE">ANPR</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_DAYS">Mon-Fri</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_TIME">7am-10am, 4pm-7pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.110722672885149,51.493753359872116</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">9</SimpleData>
+		<SimpleData name="LOCATION">Waterloo Road Opposite 101</SimpleData>
+		<SimpleData name="CAMERA_NO">9</SimpleData>
+		<SimpleData name="EASTING">531213</SimpleData>
+		<SimpleData name="NORTHING">179912</SimpleData>
+		<SimpleData name="CAMERA_TYPE">STATIC</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_DAYS">Mon-Fri</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_TIME">7am-7pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.110919925472579,51.502919957517555</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">13</SimpleData>
+		<SimpleData name="LOCATION">Norwood Road 65-69</SimpleData>
+		<SimpleData name="CAMERA_NO">13</SimpleData>
+		<SimpleData name="EASTING">532075</SimpleData>
+		<SimpleData name="NORTHING">174161</SimpleData>
+		<SimpleData name="CAMERA_TYPE">STATIC</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_DAYS">Mon-Sat </SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_TIME">7am-7pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.10065598018897,51.451037719632673</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">38</SimpleData>
+		<SimpleData name="LOCATION">Denmark Hill 99 opposite  De Crespigny Park</SimpleData>
+		<SimpleData name="CAMERA_NO">38</SimpleData>
+		<SimpleData name="EASTING">532566</SimpleData>
+		<SimpleData name="NORTHING">176258</SimpleData>
+		<SimpleData name="CAMERA_TYPE">STATIC</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_DAYS">Mon-Sun</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_TIME">7am-7pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.092808594494016,51.469767865806844</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">33</SimpleData>
+		<SimpleData name="LOCATION">Norwood Road  342</SimpleData>
+		<SimpleData name="CAMERA_NO">33</SimpleData>
+		<SimpleData name="EASTING">531891</SimpleData>
+		<SimpleData name="NORTHING">172354</SimpleData>
+		<SimpleData name="CAMERA_TYPE">STATIC</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_DAYS">N/A</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_TIME">N/A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.103975121507948,51.434841739815717</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">22</SimpleData>
+		<SimpleData name="LOCATION">Atlantic Road opposite 27</SimpleData>
+		<SimpleData name="CAMERA_NO">22</SimpleData>
+		<SimpleData name="EASTING">531175</SimpleData>
+		<SimpleData name="NORTHING">175434</SimpleData>
+		<SimpleData name="CAMERA_TYPE">STATIC</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_DAYS">N/A</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_TIME">N/A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.113128892424273,51.462686744847687</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">20</SimpleData>
+		<SimpleData name="LOCATION">Effra Road opposite 83</SimpleData>
+		<SimpleData name="CAMERA_NO">20</SimpleData>
+		<SimpleData name="EASTING">531139</SimpleData>
+		<SimpleData name="NORTHING">174676</SimpleData>
+		<SimpleData name="CAMERA_TYPE">STATIC</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_DAYS">Mon-Sat </SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_TIME">7am-7pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.113927647164975,51.455883197939386</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">39</SimpleData>
+		<SimpleData name="LOCATION">Denmark Hill 119 Champion Park</SimpleData>
+		<SimpleData name="CAMERA_NO">39</SimpleData>
+		<SimpleData name="EASTING">532702</SimpleData>
+		<SimpleData name="NORTHING">175976</SimpleData>
+		<SimpleData name="CAMERA_TYPE">STATIC</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_DAYS">Mon-Sun</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_TIME">7am-7pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.090957522218961,51.467201819709551</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">43</SimpleData>
+		<SimpleData name="LOCATION">Westminster Bridge Road 160</SimpleData>
+		<SimpleData name="EASTING">531022</SimpleData>
+		<SimpleData name="NORTHING">179540</SimpleData>
+		<SimpleData name="CAMERA_TYPE">ANPR</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_DAYS">Mon-Sat </SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_TIME">7am-7pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.113808219451174,51.499621216096273</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">11</SimpleData>
+		<SimpleData name="LOCATION">Clapham Park Road opposite 88</SimpleData>
+		<SimpleData name="CAMERA_NO">11</SimpleData>
+		<SimpleData name="EASTING">529722</SimpleData>
+		<SimpleData name="NORTHING">175077</SimpleData>
+		<SimpleData name="CAMERA_TYPE">STATIC</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_DAYS">Mon-Sun</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_TIME">(At Any Time)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.134163666240581,51.459813042218364</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">6</SimpleData>
+		<SimpleData name="LOCATION">Wansworth Road opposite 635</SimpleData>
+		<SimpleData name="CAMERA_NO">6</SimpleData>
+		<SimpleData name="EASTING">529134</SimpleData>
+		<SimpleData name="NORTHING">176075</SimpleData>
+		<SimpleData name="CAMERA_TYPE">STATIC</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_DAYS">Mon-Fri</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_TIME">4pm-7pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.142258377733371,51.468916177324182</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">29</SimpleData>
+		<SimpleData name="LOCATION">Railton Road 216-218</SimpleData>
+		<SimpleData name="CAMERA_NO">29</SimpleData>
+		<SimpleData name="EASTING">531943</SimpleData>
+		<SimpleData name="NORTHING">174372</SimpleData>
+		<SimpleData name="CAMERA_TYPE">STATIC</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_DAYS">N/A</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_TIME">N/A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.10247589338656,51.452964638195844</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">40</SimpleData>
+		<SimpleData name="LOCATION">Wandsworth Road 635</SimpleData>
+		<SimpleData name="EASTING">529134</SimpleData>
+		<SimpleData name="NORTHING">176075</SimpleData>
+		<SimpleData name="CAMERA_TYPE">ANPR</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_DAYS">Mon-Fri</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_TIME">4pm-7pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.142258377733371,51.468916177324182</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">34</SimpleData>
+		<SimpleData name="LOCATION">Kennington Road near 121</SimpleData>
+		<SimpleData name="CAMERA_NO">34</SimpleData>
+		<SimpleData name="EASTING">531247</SimpleData>
+		<SimpleData name="NORTHING">179017</SimpleData>
+		<SimpleData name="CAMERA_TYPE">STATIC</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_DAYS">Mon-Fri</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_TIME">7am-10am, 4pm-7pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.110762978505947,51.494869087525181</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">35</SimpleData>
+		<SimpleData name="LOCATION">Acre Lane 46</SimpleData>
+		<SimpleData name="CAMERA_NO">35</SimpleData>
+		<SimpleData name="EASTING">530727</SimpleData>
+		<SimpleData name="NORTHING">175153</SimpleData>
+		<SimpleData name="CAMERA_TYPE">STATIC</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_DAYS">Mon-Sat </SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_TIME">7am-7pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.11967790088877,51.460265042158156</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">27</SimpleData>
+		<SimpleData name="LOCATION">Tulse Hill opposite nos 26</SimpleData>
+		<SimpleData name="CAMERA_NO">27</SimpleData>
+		<SimpleData name="EASTING">531192</SimpleData>
+		<SimpleData name="NORTHING">174512</SimpleData>
+		<SimpleData name="CAMERA_TYPE">STATIC</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_DAYS">N/A</SimpleData>
+		<SimpleData name="BUS_LANE_ENFORCEMENT_TIME">N/A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.113226042713292,51.454397118814498</coordinates></Point>
+  </Placemark>
+</Folder>
+<Schema name="OGRGeoJSON" id="OGRGeoJSON">
+	<SimpleField name="OBJECTID" type="int"></SimpleField>
+	<SimpleField name="LOCATION" type="string"></SimpleField>
+	<SimpleField name="CAMERA_NO" type="string"></SimpleField>
+	<SimpleField name="EASTING" type="int"></SimpleField>
+	<SimpleField name="NORTHING" type="int"></SimpleField>
+	<SimpleField name="CAMERA_TYPE" type="string"></SimpleField>
+	<SimpleField name="BUS_LANE_ENFORCEMENT_DAYS" type="string"></SimpleField>
+	<SimpleField name="BUS_LANE_ENFORCEMENT_TIME" type="string"></SimpleField>
+</Schema>
+</Document></kml>

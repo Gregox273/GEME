@@ -10,7 +10,12 @@ app = Flask(__name__)
 best_fits = []
 
 @app.route('/')
-def main(): 
+@app.route('/homepage')
+def home(): 
+    return render_template('homepage.html')
+
+@app.route('/index')
+def index(): 
     return render_template('index.html')
         
 
@@ -20,7 +25,16 @@ def submission():
     global best_fits
     best_fits = compare_to_all(filename)
 
-    return render_template('timeresultspage.html')
+    return render_template('timeresultspage.html', 
+    origin_data = read_csv(correct_path(filename)).keys()[1], 
+    dataset_1 = best_fits[0][2].keys()[1], 
+    dataset_2 = best_fits[1][2].keys()[1], 
+    dataset_3 = best_fits[2][2].keys()[1], 
+    dataset_4 = best_fits[3][2].keys()[1],
+    dataset_1_r = best_fits[0][0], 
+    dataset_2_r = best_fits[1][0], 
+    dataset_3_r = best_fits[2][0], 
+    dataset_4_r = best_fits[3][0])
         
         
 @app.route("/graph1.png")
@@ -34,12 +48,12 @@ def graph1():
 
         ax1.plot(indices, df1.iloc[:,1], 'b')
         ax1.set_xlabel('Months')
-        ax1.set_ylabel('Datset 1', color='b')
+        ax1.set_ylabel('Original', color='b')
         ax1.tick_params('y', colors='b')
 
         ax2 = ax1.twinx()
         ax2.plot(indices, df2.iloc[:,1], 'r')
-        ax2.set_ylabel('Dataset 2', color='r')
+        ax2.set_ylabel('Comparison 1', color='r')
         ax2.tick_params('y', colors='r')
 
         fig.tight_layout()
@@ -64,12 +78,12 @@ def graph2():
 
         ax1.plot(indices, df1.iloc[:,1], 'b')
         ax1.set_xlabel('Months')
-        ax1.set_ylabel('Datset 1', color='b')
+        ax1.set_ylabel('Original', color='b')
         ax1.tick_params('y', colors='b')
 
         ax2 = ax1.twinx()
         ax2.plot(indices, df2.iloc[:,1], 'r')
-        ax2.set_ylabel('Dataset 2', color='r')
+        ax2.set_ylabel('Comparison 2', color='r')
         ax2.tick_params('y', colors='r')
 
         fig.tight_layout()
@@ -94,12 +108,12 @@ def graph3():
 
         ax1.plot(indices, df1.iloc[:,1], 'b')
         ax1.set_xlabel('Months')
-        ax1.set_ylabel('Datset 1', color='b')
+        ax1.set_ylabel('Original', color='b')
         ax1.tick_params('y', colors='b')
 
         ax2 = ax1.twinx()
         ax2.plot(indices, df2.iloc[:,1], 'r')
-        ax2.set_ylabel('Dataset 2', color='r')
+        ax2.set_ylabel('Comparison 3', color='r')
         ax2.tick_params('y', colors='r')
 
         fig.tight_layout()
@@ -124,12 +138,12 @@ def graph4():
 
         ax1.plot(indices, df1.iloc[:,1], 'b')
         ax1.set_xlabel('Months')
-        ax1.set_ylabel('Datset 1', color='b')
+        ax1.set_ylabel('Original', color='b')
         ax1.tick_params('y', colors='b')
 
         ax2 = ax1.twinx()
         ax2.plot(indices, df2.iloc[:,1], 'r')
-        ax2.set_ylabel('Dataset 2', color='r')
+        ax2.set_ylabel('Comparison 4', color='r')
         ax2.tick_params('y', colors='r')
 
         fig.tight_layout()
