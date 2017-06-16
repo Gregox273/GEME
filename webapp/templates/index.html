@@ -11,8 +11,24 @@
 <body>
   
 	<header class="sticky">
-		<a href="homepage.html" class="logo">DataGenie</a>
+		<div class="row">
+  			<div class="col-sm-1">
+    		<img src="datagenielogooutline.png">
+  			</div>
+  			<div class="col-sm">
+    			<h4>DataGenie</h4>
+  			</div>
+		</div>
 	</header>
+
+	<p>Upload your own CSV file to compare to our database</p>
+
+	<input type="file" id="file-input">
+	<label for="file-input" class="button">Upload file...</label>
+
+	<h5>or</h5>
+
+	<p>Choose one of our files:</p>
 
     
 	<form action="/submit" method="GET">
