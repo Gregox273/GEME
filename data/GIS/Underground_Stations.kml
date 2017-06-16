@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="OGRGeoJSON" id="OGRGeoJSON">
+	<SimpleField name="OBJECTID" type="int"></SimpleField>
+	<SimpleField name="ADDRESS" type="string"></SimpleField>
+	<SimpleField name="PHONE" type="string"></SimpleField>
+	<SimpleField name="LINES" type="string"></SimpleField>
+	<SimpleField name="ZONE" type="string"></SimpleField>
+	<SimpleField name="MAP_EAST" type="float"></SimpleField>
+	<SimpleField name="MAP_NORTH" type="float"></SimpleField>
+</Schema>
+<Folder><name>OGRGeoJSON</name>
+  <Placemark>
+	<name>Vauxhall</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">1</SimpleData>
+		<SimpleData name="ADDRESS">Vauxhall Cross, Vauxhall, London, SW8 1SR</SimpleData>
+		<SimpleData name="PHONE">020 7222 1234</SimpleData>
+		<SimpleData name="LINES">Victoria</SimpleData>
+		<SimpleData name="ZONE">1/2</SimpleData>
+		<SimpleData name="MAP_EAST">530308.286458</SimpleData>
+		<SimpleData name="MAP_NORTH">178009.67439</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.12464895622557,51.486033539017306</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Stockwell</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">2</SimpleData>
+		<SimpleData name="ADDRESS">254-256 Clapham Road, London, SW9 9AE</SimpleData>
+		<SimpleData name="PHONE">020 7222 1234</SimpleData>
+		<SimpleData name="LINES">Northern, Victoria</SimpleData>
+		<SimpleData name="ZONE">2</SimpleData>
+		<SimpleData name="MAP_EAST">530469.430782</SimpleData>
+		<SimpleData name="MAP_NORTH">176489.731033</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.122890342720631,51.472337197633784</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Balham</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">3</SimpleData>
+		<SimpleData name="ADDRESS">Balham High Road, London, SW12 9BW</SimpleData>
+		<SimpleData name="PHONE">020 7222 1234</SimpleData>
+		<SimpleData name="LINES">Northern</SimpleData>
+		<SimpleData name="ZONE">3</SimpleData>
+		<SimpleData name="MAP_EAST">528474.954079</SimpleData>
+		<SimpleData name="MAP_NORTH">173215.235921</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.152779107725414,51.443365770692061</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Clapham North</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">4</SimpleData>
+		<SimpleData name="ADDRESS">Clapham High Street, London, SW4 7TS</SimpleData>
+		<SimpleData name="PHONE">020 7222 1234</SimpleData>
+		<SimpleData name="LINES">Northern</SimpleData>
+		<SimpleData name="ZONE">2</SimpleData>
+		<SimpleData name="MAP_EAST">530027.818013</SimpleData>
+		<SimpleData name="MAP_NORTH">175671.468829</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.129545798137051,51.465085271503298</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kennington</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">5</SimpleData>
+		<SimpleData name="ADDRESS">83 Kennington Park Road, London, SE11 4BT</SimpleData>
+		<SimpleData name="PHONE">020 7222 1234</SimpleData>
+		<SimpleData name="LINES">Northern</SimpleData>
+		<SimpleData name="ZONE">2</SimpleData>
+		<SimpleData name="MAP_EAST">531618.073756</SimpleData>
+		<SimpleData name="MAP_NORTH">178294.21537</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.105690022831556,51.488287554859539</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Clapham Common</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">6</SimpleData>
+		<SimpleData name="ADDRESS">Clapham Common South Side, London, SW4 7AJ</SimpleData>
+		<SimpleData name="PHONE">020 7222 1234</SimpleData>
+		<SimpleData name="LINES">Northern</SimpleData>
+		<SimpleData name="ZONE">2</SimpleData>
+		<SimpleData name="MAP_EAST">529427.757517</SimpleData>
+		<SimpleData name="MAP_NORTH">175290.606092</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.138318491912245,51.461799963072103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Oval</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">7</SimpleData>
+		<SimpleData name="ADDRESS">312 Kennington Park Road, London, SE11 4PP</SimpleData>
+		<SimpleData name="PHONE">020 7222 1234</SimpleData>
+		<SimpleData name="LINES">Northern</SimpleData>
+		<SimpleData name="ZONE">2</SimpleData>
+		<SimpleData name="MAP_EAST">531141.142161</SimpleData>
+		<SimpleData name="MAP_NORTH">177583.775221</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.112818891670684,51.482013812790896</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Elephant and Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">8</SimpleData>
+		<SimpleData name="ADDRESS">London Road, London, SE1 6LW</SimpleData>
+		<SimpleData name="PHONE">020 7222 1234</SimpleData>
+		<SimpleData name="LINES">Bakerloo, Northern (Bank branch)</SimpleData>
+		<SimpleData name="ZONE">1/2</SimpleData>
+		<SimpleData name="MAP_EAST">531971.716123</SimpleData>
+		<SimpleData name="MAP_NORTH">179001.373724</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.100335346187699,51.494560111094053</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Waterloo</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">9</SimpleData>
+		<SimpleData name="ADDRESS">Waterloo Station, London, SE1 7LY</SimpleData>
+		<SimpleData name="PHONE">020 7222 1234</SimpleData>
+		<SimpleData name="LINES">Bakerloo, Jubilee, Northern (Charing Cross branch)</SimpleData>
+		<SimpleData name="ZONE">1</SimpleData>
+		<SimpleData name="MAP_EAST">531014.606902</SimpleData>
+		<SimpleData name="MAP_NORTH">179958.196564</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.113759496054979,51.503381087457221</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Brixton</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">10</SimpleData>
+		<SimpleData name="ADDRESS">437 Brixton Road, London, SW9 8HE</SimpleData>
+		<SimpleData name="PHONE">020 7222 1234</SimpleData>
+		<SimpleData name="LINES">Victoria</SimpleData>
+		<SimpleData name="ZONE">2</SimpleData>
+		<SimpleData name="MAP_EAST">531060.144943</SimpleData>
+		<SimpleData name="MAP_NORTH">175421.821573</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.114785776777666,51.462603883687997</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lambeth North</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">11</SimpleData>
+		<SimpleData name="ADDRESS">110 Westminster Bridge Road, London, SE1 7XG</SimpleData>
+		<SimpleData name="PHONE">020 7222 1234</SimpleData>
+		<SimpleData name="LINES">Bakerloo</SimpleData>
+		<SimpleData name="ZONE">1</SimpleData>
+		<SimpleData name="MAP_EAST">531152.876173</SimpleData>
+		<SimpleData name="MAP_NORTH">179474.927738</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.111948004093433,51.499006116157801</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Clapham South</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">12</SimpleData>
+		<SimpleData name="ADDRESS">Clapham Common South Side, London,  SW4 7AJ</SimpleData>
+		<SimpleData name="PHONE">020 7222 1234</SimpleData>
+		<SimpleData name="LINES">Northern</SimpleData>
+		<SimpleData name="ZONE">2/3</SimpleData>
+		<SimpleData name="MAP_EAST">528798.834031</SimpleData>
+		<SimpleData name="MAP_NORTH">174276.571408</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.147735498667409,51.452830336864352</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
