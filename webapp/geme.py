@@ -39,7 +39,7 @@ def overlap_dataframes(dfx, dfy):
     data_y = dfy.iloc[range_y[0]:range_y[1]]
     return data_x, data_y
 
-def compare_datasets(dfx, dfy):
+def compare_datasets(dfx, dfy): #TODO need error handling if no overlap
     data_x, data_y = overlap_dataframes(dfx, dfy)
     vals_x = data_x.iloc[:,1]
     vals_y = data_y.iloc[:,1]
@@ -59,3 +59,24 @@ def read_data_frame(s):
 def get_available_datasets():
     is_visible = lambda filename: not filename.startswith('.')
     return list(filter(is_visible, os.listdir('../datasets/time')))
+
+def correct_path(filename):
+    return r'../datasets/time/' + filename
+    
+def compare_to_all(filename):
+    # get filenames 
+    all_files = get_available_datasets()
+    all_files.remove(filename)
+    # create paths
+    filename = correct_path(filename)
+    all_files = list(map(correct_path, all_files))
+    # read dataframes
+    target_df = read_csv(filename)
+    compare_df = list(map(read_csv, all_files))
+    # compare target frame to all others
+    compare_func = lambda df: compare_datasets(target_df, df)
+    comparison = list(map(compare_func, compare_df))
+    # sort by correlation, take top four
+    comparison.sort(key = lambda tup: tup[0], reverse=True)
+    best_fits = comparison[0:4]
+    return best_fits
