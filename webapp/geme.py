@@ -1,4 +1,5 @@
 import numpy as np
+import os
 from pandas import DataFrame, read_csv
 
 def normalise(x):
@@ -54,3 +55,7 @@ def month_to_string(s):
 
 def read_data_frame(s):
     return read_csv(s)
+
+def get_available_datasets():
+    is_visible = lambda filename: not filename.startswith('.')
+    return list(filter(is_visible, os.listdir('../datasets/time')))
