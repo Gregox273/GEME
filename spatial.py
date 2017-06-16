@@ -1,5 +1,6 @@
 from fastkml import kml
 import numpy as np
+import sys
 
 AREA = 26.82 * 1000000  # Area of Lambeth in m^2
 
@@ -38,7 +39,6 @@ def Ki(coords1, coords2, h):
         for i in coords1:
             if hav(i[1],i[0],j[1],j[0]) <= h:
                 numer = numer + 1
-    print(numer)
     denom = len(coords2) * len(coords1) / AREA
     return (numer/denom)
 
@@ -52,10 +52,12 @@ def crossL(coords1,coords2, h):
 
 Coords1 = []
 Coords2 = []
-k1 = read("data/GIS/Schools.kml")
+file1 = sys.argv[1]
+file2 = sys.argv[2]
+k1 = read(file1)
 Coords1 = getlatlon(k1,Coords1)
 
-k2 = read("data/GIS/Licensed_Premises.kml")
+k2 = read(file2)
 Coords2 = getlatlon(k2,Coords2)
 
 print(crossL(Coords1, Coords2, 100))
