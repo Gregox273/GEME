@@ -1,0 +1,4 @@
+Information sourced from Lambeth Council GIS data
+http://gis.lambeth.gov.uk/arcgis/rest/services/ElectoralServices/MapServer/0
+
+License can be found at http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
