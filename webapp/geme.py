@@ -89,4 +89,7 @@ def compare_to_all(filename):
     # sort by correlation, take top four
     comparison.sort(key = lambda tup: tup[0], reverse=True)
     best_fits = comparison[0:4]
+    # pad list if necessary
+    if len(best_fits) < 4:
+        best_fits = best_fits + [None]*(4-len(a))
     return best_fits
